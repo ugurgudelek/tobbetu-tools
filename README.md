@@ -1,5 +1,6 @@
-# tobbetu-lab-placement-tool
-Lab placement of student will be easier now in TOBB ETU for assistants :)
+# TOBB ETU Lab Placement Tool
+
+For assistants (like me:)), lab placement of student will be easier:)
 
 Usage
 
