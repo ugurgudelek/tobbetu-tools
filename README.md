@@ -2,6 +2,19 @@
 
 For assistants (like me:)), lab placement of student will be easier:)
 
+Requirements
+```
+selenium
+pandas
+numpy
+tqdm
+time
+pickle
+os
+configparser
+argparse
+```
+
 Usage
 
 1. Fill config.ini file properly
