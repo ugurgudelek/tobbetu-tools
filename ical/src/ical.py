@@ -5,9 +5,13 @@ import pytz
 
 
 # URL = 'http://kayit.etu.edu.tr/butunleme_gozetmenlikleri.php'
-URL = 'http://kayit.etu.edu.tr/ara_sinav_programi.php'
-# URL = 'http://kayit.etu.edu.tr/Ders/donem_sonu_sinav_gozetmenlikleri.php'
-gozetmen_name = 'MEHMET UĞUR GÜDELEK'
+# URL = 'http://kayit.etu.edu.tr/ara_sinav_programi.php'
+URL = 'http://kayit.etu.edu.tr/Ders/donem_sonu_sinav_gozetmenlikleri.php'
+# gozetmen_name = 'MEHMET UĞUR GÜDELEK'
+# gozetmen_name = 'MUHAMMED YILMAZ'
+# gozetmen_name = 'ZEYNEP TÜFEKCİ'
+# gozetmen_name = 'CANSIN BAYRAK'
+gozetmen_name = 'IŞIKSU EKŞİOĞLU'
 
 gozetmenlik_df = pd.read_html(URL, header=0)[0]
 
