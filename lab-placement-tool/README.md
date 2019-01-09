@@ -1,3 +1,6 @@
+# Not Working Anymore  
+# TOBB made the students' weekly schedule private.
+
 # TOBB ETU Lab Placement Tool
 
 For assistants (like me:)), lab placement of student will be easier:)

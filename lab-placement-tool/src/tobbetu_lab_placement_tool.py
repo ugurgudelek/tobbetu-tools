@@ -179,14 +179,14 @@ if __name__ == "__main__":
         REQUESTED_SLOTS.append(slot)
 
     # Program Logic
-    BASE_URL = 'http://obs.etu.edu.tr:35/DersProgrami#/'
+    BASE_URL = 'https://program.etu.edu.tr/DersProgrami/?oturumNo=5F1D2C57-E013-4F24-945C-07DE37284173#/'
     OUTPUT_PREFIX = '../output/'
     os.makedirs(OUTPUT_PREFIX, exist_ok=True)
     PICKLE_FILEPATH = OUTPUT_PREFIX+COURSE_NAME+'_student_schedules.pkl'
     CSV_OUTPUT_PATH = OUTPUT_PREFIX+COURSE_NAME+'_placement.csv'
     if not os.path.exists(PICKLE_FILEPATH):
         chrome_options = Options()
-        chrome_options.add_argument("--headless")
+        # chrome_options.add_argument("--headless")
         driver = webdriver.Chrome('../driver/chromedriver.exe', options=chrome_options)
         STUDENT_LIST_URL = BASE_URL + 'sube/ogrencilist/{course_code}/0'.format(course_code=get_coursecode(COURSE_NAME))
         SCHEDULE_URL = BASE_URL + 'dersprogrami/ogrenci/{student_num}'
