@@ -1,1 +1,5 @@
-�ube : 1 - AHMET YA�AR OCAK - Toplam : 16
+Şube : 1 - AHMET YAŞAR OCAK - Toplam : 16
+Salı - 11:30 - 12:20 - 183
+Salı - 12:30 - 13:20 - 183
+Pazartesi - 15:30 - 16:20 - 183
+Pazartesi - 16:30 - 17:20 - 183

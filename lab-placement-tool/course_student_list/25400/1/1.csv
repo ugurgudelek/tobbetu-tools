@@ -1,0 +1,610 @@
+,Öğrenci No,Ad Soyad,Bölüm,Sınıf,Devam Drm
+0,161101055,AYBERK USLU,Bilgisayar Mühendisliği Lisans Programı,3,Devamlı
+1,171201008,ARAL YILMAZ,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+2,161101062,OĞUZ ANDAŞ,Bilgisayar Mühendisliği Lisans Programı,3,Devamlı
+3,171201031,KUTLUHAN TAYLAN İREN,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+4,171301078,AHMET TAKIT,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+5,171701027,ATAKAN ÖZKAN,Biyomedikal Mühendisliği Lisans Programı,3,Devamlı
+6,171501042,ÇINAR GÜLLEROĞLU,Makine Mühendisliği Lisans Programı,3,Devamlı
+7,161201063,İREM KARAAĞAÇ,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+8,171701014,ELİF SIDAL KARAKUŞ,Biyomedikal Mühendisliği Lisans Programı,2,Devamlı
+9,152501035,SİNEM UĞURLU,Psikoloji Lisans Programı,4,Devamlı
+10,175101100,DENİZ ÖZGEN,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+11,163201044,YEKTA TEMEL,İktisat Lisans Programı,3,Devamlı
+12,171301019,SELEN AKYOL,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+13,171201076,KEREM ARIKAN,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+14,161801004,DENİZ ÇAKIR,Malzeme Bilimi ve Nanoteknoloji Mühendisliği Lisans,4,Devamlı
+15,161201045,ATABERK TAŞDEMİR,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+16,144401013,SENA TUĞBA KAPLAN,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+17,163101032,BUSENUR DÜNDAR,İşletme Lisans Programı,3,Devamlı
+18,166501060,ELİF DEPBOYLU,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+19,161301039,AYŞE İÇÖZ,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+20,144204002,IŞIN SİMAY ÖZÇELİK,İç Mimarlık ve Çevre Tasarım Lisans Programı,2,Devamlı
+21,153101006,BATUHAN YEMİŞCİ,İşletme Lisans Programı,4,Devamlı
+22,171501069,DORUK ÜNAL,Makine Mühendisliği Lisans Programı,3,Devamlı
+23,161801013,DAMLA GÜLTEKİN,Malzeme Bilimi ve Nanoteknoloji Mühendisliği Lisans,3,Devamlı
+24,172401012,ÇAĞAN FIRTINA,İngiliz Dili ve Edebiyatı Lisans Programı,3,Devamlı
+25,163101026,BÜŞRA KULLUK,İşletme Lisans Programı,3,Devamlı
+26,161301067,SEZİN SABAHAT TÜRKER,Endüstri Mühendisliği Lisans Programı,2,Devamlı
+27,141701027,ALP ATAÇ,Biyomedikal Mühendisliği Lisans Programı,3,Devamlı
+28,166501002,MUSTAFA NURULLAH KÖKSAL,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+29,172401015,SELİN BALTACI,İngiliz Dili ve Edebiyatı Lisans Programı,3,Devamlı
+30,161301075,ZEYNEP FIRAT,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+31,161201060,KEMAL HORASANLI,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+32,174406002,GİZEM SENA YAGAN,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+33,172201008,RABİA ULUSOY,Türk Dili ve Edebiyatı Lisans Programı,3,Devamlı
+34,163101057,BİRCE BATMAN,İşletme Lisans Programı,3,Devamlı
+35,174420006,NURSENA KOYUTÜRK,Görsel İletişim Tasarımı Lisans Programı,4,Devamlı
+36,164301025,AYŞEM DAMLA KESKİN,Endüstriyel Tasarım Lisans Programı,3,Devamlı
+37,161501028,MEHMET BARTU ÜNAL,Makine Mühendisliği Lisans Programı,2,Devamlı
+38,164301012,ÖYKÜ ASLAN,Endüstriyel Tasarım Lisans Programı,3,Devamlı
+39,164301019,SILA BEGÜM BAŞÇOBAN,Endüstriyel Tasarım Lisans Programı,3,Devamlı
+40,161701024,FIRAT ÖZKANAT,Biyomedikal Mühendisliği Lisans Programı,3,Devamlı
+41,162301004,KÜBRA TUNÇ,Tarih Lisans Programı (%30 İngilizce),3,Devamlı
+42,175101099,ERDEM ÇETİN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+43,174401013,ESRA ARSLAN,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+44,171801019,EDA DAMAR,Malzeme Bilimi ve Nanoteknoloji Mühendisliği Lisans,2,Devamlı
+45,174301025,BURCU BÜYÜKTAŞCI,Endüstriyel Tasarım Lisans Programı,3,Devamlı
+46,174301009,ALP ERKUL,Endüstriyel Tasarım Lisans Programı,3,Devamlı
+47,171104001,CEMSİNA GÜZEL,Bilgisayar Mühendisliği Lisans Programı,3,Devamlı
+48,174406001,KÜBRA ÇETİNTÜRK,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+49,162501022,ELİFNAZ LEBLEBİCİ,Psikoloji Lisans Programı,3,Devamlı
+50,164201012,HABİBE NUR AKŞAMOĞLU,İç Mimarlık ve Çevre Tasarım Lisans Programı,4,Devamlı
+51,161201036,BERKAY DOĞANAY,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+52,171501059,ONUR ÖZDEMİR,Makine Mühendisliği Lisans Programı,3,Devamlı
+53,171501048,ATA KUTUN,Makine Mühendisliği Lisans Programı,3,Devamlı
+54,161701036,ÖMER FARUK ÖZDEMİR,Biyomedikal Mühendisliği Lisans Programı,2,Devamlı
+55,161101048,HÜSEYİN ATAKAN GÜÇSAV,Bilgisayar Mühendisliği Lisans Programı,4,Devamlı
+56,171501054,BERK ARTUN TANRIVERDİ,Makine Mühendisliği Lisans Programı,3,Devamlı
+57,161301005,ZEHRANUR YILMAZ,Endüstri Mühendisliği Lisans Programı,4,Devamlı
+58,171301070,YAREN GÜRSOY,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+59,161301024,ŞEHRİBANU USTA,Endüstri Mühendisliği Lisans Programı,4,Devamlı
+60,161301049,DUYGU HOROZCU,Endüstri Mühendisliği Lisans Programı,2,Devamlı
+61,163101021,ZELİMHAN KUTLU,İşletme Lisans Programı,4,Devamlı
+62,171301056,AYSUN SARITOSUN,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+63,161701035,TACETTİN ATA ASLAN,Biyomedikal Mühendisliği Lisans Programı,4,Devamlı
+64,161301018,AYŞE İREM YÖRÜK,Endüstri Mühendisliği Lisans Programı,4,Devamlı
+65,171701017,KEMAL ONUR CUNEDİOĞLU,Biyomedikal Mühendisliği Lisans Programı,3,Devamlı
+66,174401010,DAMLA KAZAR,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+67,153201016,OSMAN ATAY ÖZTÜRK,İktisat Lisans Programı,3,Devamlı
+68,174401032,BAŞAK TURAN,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+69,161101044,ONUR DEMİREZEN,Bilgisayar Mühendisliği Lisans Programı,3,Devamlı
+70,172201012,TUĞÇE ARSLAN,Türk Dili ve Edebiyatı Lisans Programı,3,Devamlı
+71,164301022,DENİZ BÖLÜKBAŞ,Endüstriyel Tasarım Lisans Programı,3,Devamlı
+72,151101063,CİHAN ALMA,Bilgisayar Mühendisliği Lisans Programı,3,Devamlı
+73,161301026,BATUHAN ALTUNBULAK,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+74,161201052,BUSE NUR DÜZGÜN,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+75,161201005,ENES ALİ TEKERLEK,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+76,161301045,KARDELEN AYDOĞDU,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+77,171501052,ARDA MERİÇ,Makine Mühendisliği Lisans Programı,3,Devamlı
+78,161701025,BORAN ÖZTOKAT,Biyomedikal Mühendisliği Lisans Programı,3,Devamlı
+79,161501061,BARKIN ERZİNCAN,Makine Mühendisliği Lisans Programı,3,Devamlı
+80,164201013,ELİF BULUR,İç Mimarlık ve Çevre Tasarım Lisans Programı,3,Devamlı
+81,155101058,ASLI BIÇAKLI,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+82,155101005,FATMA ÇEVLİK,Hukuk Lisans Programı (%30 İngilizce),4,Devamlı
+83,174401025,OKAN ÇETİNKAYA,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+84,161501058,ATA SARIÇOBAN,Makine Mühendisliği Lisans Programı,3,Devamlı
+85,162501034,İLAYDA TUNÇER,Psikoloji Lisans Programı,3,Devamlı
+86,171301010,SİMAY ÇALIŞKAN,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+87,161501025,AHMET BERAT DERİN,Makine Mühendisliği Lisans Programı,3,Devamlı
+88,161101010,TUNAHAN ERTEKİN,Bilgisayar Mühendisliği Lisans Programı,3,Devamlı
+89,161301001,YİĞİT ANIŞ,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+90,153201010,ENES SÖZEN,İktisat Lisans Programı,3,Devamlı
+91,166501012,ECE GÖRÜCÜ,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+92,145101076,GÖKSU YILDIZ,Hukuk Lisans Programı,3,Devamlı
+93,151801029,BERK ŞENEL,Malzeme Bilimi ve Nanoteknoloji Mühendisliği Lisans,3,Devamlı
+94,171201073,ALİ ALPTUĞ EMİRDAĞ,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+95,161301014,RIDVAN AKTEPE,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+96,163201020,BUSE ÖZYURT,İktisat Lisans Programı,3,Devamlı
+97,171801014,CEM AŞCI,Malzeme Bilimi ve Nanoteknoloji Mühendisliği Lisans,3,Devamlı
+98,171201025,MELİKE SELİN KÜÇÜKŞEN,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+99,171701023,UTKU SERHAT DERİCİ,Biyomedikal Mühendisliği Lisans Programı,3,Devamlı
+100,161201010,AHMET FARUK ÖZDEMİR,Elektrik ve Elektronik Mühendisliği,4,Devamlı
+101,174301008,ÇAĞLA ŞEN,Endüstriyel Tasarım Lisans Programı,3,Devamlı
+102,121101060,BARAN BERK BACALAN,Bilgisayar Mühendisliği Lisans Programı,4,Devamlı
+103,172401003,ELİF ÇELENK,İngiliz Dili ve Edebiyatı Lisans Programı,3,Devamlı
+104,162401025,ASU ÖZYÜREK,İngiliz Dili ve Edebiyatı Lisans Programı,3,Devamlı
+105,171101010,OKAN ERDOĞAN,Bilgisayar Mühendisliği Lisans Programı,3,Devamlı
+106,174601024,NİLSU TAŞEL,Mimarlık Lisans Programı,3,Devamlı
+107,163201047,ÖZGE ÇAKIR,İktisat Lisans Programı,3,Devamlı
+108,163220001,ÖMER FARUK KIVANÇ,İktisat Lisans Programı,3,Devamlı
+109,161801026,BEYZA KURT,Malzeme Bilimi ve Nanoteknoloji Mühendisliği Lisans,3,Devamlı
+110,151201028,MUSTAFA YUŞA YENMEZ,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+111,161301055,FERHAT GÖZTEPE,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+112,151801021,YAREN KANTARCI,Malzeme Bilimi ve Nanoteknoloji Mühendisliği Lisans,3,Devamlı
+113,153101051,EMRECAN ŞENGÜR,İşletme Lisans Programı,3,Devamlı
+114,165120014,CEMRE NUR TURAN,Hukuk Lisans Programı,4,Devamlı
+115,166501019,KERİM BURAK ERDOĞDU,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+116,154601030,AHMET FATİH İBİŞ,Mimarlık Lisans Programı,3,Devamlı
+117,171201012,ERDENİZ İVGİN,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+118,165101080,SİNEM TEMEL,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+119,164601015,İREM MALGAŞ,Mimarlık Lisans Programı,3,Devamlı
+120,161301019,AFRA EDİKLİ,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+121,164601041,ÇAĞILSU KARDEŞ,Mimarlık Lisans Programı,4,Devamlı
+122,161201071,DORUK BİLGİ,Elektrik ve Elektronik Mühendisliği,2,Devamlı
+123,161201034,HATİCE BİLGİN,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+124,161301021,ELİF ÇELİK,Endüstri Mühendisliği Lisans Programı,4,Devamlı
+125,162301001,ENES TALHA BİLGİN,Tarih Lisans Programı (%30 İngilizce),3,Devamlı
+126,151301033,İLAYDA ŞEN,Endüstri Mühendisliği Lisans Programı,2,Devamlı
+127,162301002,BURHAN AYDIN,Tarih Lisans Programı (%30 İngilizce),3,Devamlı
+128,162301009,FURKAN SARI,Tarih Lisans Programı (%30 İngilizce),3,Devamlı
+129,162301012,MUHARREM ENES ERDEM,Tarih Lisans Programı (%30 İngilizce),3,Devamlı
+130,171101063,MERT ONUR ÇAKIROĞLU,Bilgisayar Mühendisliği Lisans Programı,3,Devamlı
+131,164601025,YUSUF ALPEREN PEHLİVAN,Mimarlık Lisans Programı,3,Devamlı
+132,161301060,BEYZA ŞAHİN,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+133,161801028,HATİCE ASENA YILDIZ,Malzeme Bilimi ve Nanoteknoloji Mühendisliği Lisans,3,Devamlı
+134,173104001,TERKEN GÜREL,İşletme Lisans Programı,3,Devamlı
+135,161301053,ÜMMÜHAN ŞAHİN,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+136,171301020,ECEM NESLİŞAH MERAL,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+137,151201047,ALPEREN BÜYÜKKELEŞ,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+138,166501008,AHMET FARUK GÜLEŞEN,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+139,174601019,ELİF NUR BEK,Mimarlık Lisans Programı,3,Devamlı
+140,151701026,İREM SÖNMEZ,Biyomedikal Mühendisliği Lisans Programı,3,Devamlı
+141,164601050,PELİN ALEMDAR,Mimarlık Lisans Programı,3,Devamlı
+142,161501077,CAN KAYA,Makine Mühendisliği Lisans Programı,3,Devamlı
+143,162501015,NEMİKA SENA GÖK,Psikoloji Lisans Programı,3,Devamlı
+144,161701030,CEREN BEYZA SAMANCI,Biyomedikal Mühendisliği Lisans Programı,3,Devamlı
+145,153101047,İSMAİL KIVANÇ BARUT,İşletme Lisans Programı,4,Devamlı
+146,151701039,ASLI MANDIROĞLU,Biyomedikal Mühendisliği Lisans Programı,2,Devamlı
+147,171501047,CELALEDDİN KARAKILIÇ,Makine Mühendisliği Lisans Programı,3,Devamlı
+148,121101052,GİZEM UYANIKER,Bilgisayar Mühendisliği Lisans Programı,3,Devamlı
+149,164201005,ALİŞAN ÇAKAL,İç Mimarlık ve Çevre Tasarım Lisans Programı,3,Devamlı
+150,155101056,EREN ÇOBAN,Hukuk Lisans Programı,4,Devamsız
+151,172401014,ÇİĞDEM TAMER,İngiliz Dili ve Edebiyatı Lisans Programı,3,Devamlı
+152,166501031,BİLAL EREN HİRİK,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+153,164301017,HAMDİ HEKİMOĞLU,Endüstriyel Tasarım Lisans Programı,3,Devamlı
+154,166501042,HASRET GENÇ,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+155,141201025,SALTUK TAHA BARLI,Elektrik ve Elektronik Mühendisliği,4,Devamlı
+156,163201001,MUSTAFA CEYLAN,İktisat Lisans Programı,3,Devamlı
+157,161501068,ENES YILMAZ,Makine Mühendisliği Lisans Programı,3,Devamlı
+158,176501040,KERİM CAN KARA,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+159,161301072,FATMA BAYZİN,Endüstri Mühendisliği Lisans Programı,2,Devamlı
+160,163201010,HÜSEYİN TOSUN,İktisat Lisans Programı,3,Devamlı
+161,131101040,ERHAN EKER,Bilgisayar Mühendisliği Lisans Programı,4,Devamlı
+162,163101011,MUSTAFA TUZCU,İşletme Lisans Programı,3,Devamlı
+163,163320008,JANET EKE,Uluslararası İlişkiler Lisans Programı,3,Devamlı
+164,173201052,EMRE YUSUF AKSU,İktisat Lisans Programı,3,Devamlı
+165,162501014,FADİME ECEMSU TEKİN,Psikoloji Lisans Programı,3,Devamlı
+166,166501020,CEM KARAHANOĞLU,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+167,101201039,SERKAN YASSIKAYA,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+168,161201069,AHMET BERK VICIL,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+169,166501035,İHSAN UĞUR ÖKTEM,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+170,164301018,ŞEVVAL ADIGÜZEL,Endüstriyel Tasarım Lisans Programı,3,Devamlı
+171,171301041,MERVE SILA DOĞAN,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+172,155101069,FURKAN TAŞTAN,Hukuk Lisans Programı,3,Devamlı
+173,172501046,SEMA ÖZDİNGİŞ,Psikoloji Lisans Programı,3,Devamlı
+174,153101061,ASLI ÖZTÜRK,İşletme Lisans Programı,4,Devamlı
+175,175104001,İREM DOĞAN,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+176,143101054,BERK CAN ÇETİN,İşletme Lisans Programı,4,Devamlı
+177,153301062,BERFİN CEBECİK,Uluslararası İlişkiler Lisans Programı,3,Devamlı
+178,161201023,FURKAN TAŞKINSAKARYA,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+179,161101036,KÜRŞAD BUMİN GİRAY SAKA,Bilgisayar Mühendisliği Lisans Programı,3,Devamlı
+180,171301047,ZEYNEP YAREN AKKOYUNLU,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+181,171701033,NEJAT EGE KETREZ,Biyomedikal Mühendisliği Lisans Programı,3,Devamlı
+182,161301054,BATUHAN SEVER,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+183,131201071,FURKAN ATABİLEN,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+184,161101007,MUHAMMED EMRE DURDU,Bilgisayar Mühendisliği Lisans Programı,3,Devamlı
+185,163101030,BÜŞRA KAMA,İşletme Lisans Programı,3,Devamlı
+186,166501039,YAĞMUR ATILGAN,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+187,161301048,MELDA BETÜL ŞEN,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+188,172401010,MUHAMMED TUNAHAN KOÇAK,İngiliz Dili ve Edebiyatı Lisans Programı,3,Devamlı
+189,161501008,OĞUZHAN SONGUR,Makine Mühendisliği Lisans Programı,3,Devamlı
+190,175101052,HAMDİ MURAT EROĞLU,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+191,165101002,ALİ HAYDAR GÖKSEL,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+192,165120002,BİLAL AKMAN,Hukuk Lisans Programı,4,Devamlı
+193,161201042,AHMET ÇAĞLAR YILDIRIM,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+194,151101003,MUSA ÜNAL,Bilgisayar Mühendisliği Lisans Programı,4,Devamlı
+195,161701005,ATA AYHAN YILMAZ,Biyomedikal Mühendisliği Lisans Programı,3,Devamlı
+196,174201041,BERİL KANTAR,İç Mimarlık ve Çevre Tasarım Lisans Programı,3,Devamlı
+197,171201070,İDİL BENSU ÇILBIR,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+198,161501041,YUSUF YAMANER,Makine Mühendisliği Lisans Programı,3,Devamlı
+199,161501049,FATİH GÜMÜŞSOY,Makine Mühendisliği Lisans Programı,3,Devamlı
+200,174401009,BURAK YILDIZ,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+201,163101008,ALİCAN ÇAKIR,İşletme Lisans Programı,3,Devamlı
+202,171301003,İPEK CEMRE SONYILDIRIM,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+203,166501023,SELİN AKTAN,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+204,161101009,YUNUS KEREM TÜRK,Bilgisayar Mühendisliği Lisans Programı,3,Devamlı
+205,161301037,GÖKTÜRK EREN AKTAŞ,Endüstri Mühendisliği Lisans Programı,2,Devamlı
+206,161301027,POLEN NARÇIN,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+207,141801018,PELİN ULAŞ,Malzeme Bilimi ve Nanoteknoloji Mühendisliği Lisans,3,Devamlı
+208,162501008,ENİSE DAMLA ATABEY,Psikoloji Lisans Programı,3,Devamlı
+209,161201061,MEHMET KAAN ERGÜL,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+210,162201008,ŞEYMA NUR HAMİDİ,Türk Dili ve Edebiyatı Lisans Programı,3,Devamlı
+211,161101013,MEHMET ARİF ŞAHİN,Bilgisayar Mühendisliği Lisans Programı,4,Devamlı
+212,176504001,HÜSNÜ ARIN DEMİR,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,4,Devamlı
+213,163201009,TARIK AYDOĞDU,İktisat Lisans Programı,3,Devamlı
+214,151201016,EREN ALGAN,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+215,161301069,OZAN ALTINBIÇAK,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+216,152201010,NAZLI TEMEL,Türk Dili ve Edebiyatı Lisans Programı,3,Devamlı
+217,161201075,DENİZ CAN YÜKSEL,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+218,161501047,CAN MUHAMMET SARIKAYA,Makine Mühendisliği Lisans Programı,3,Devamlı
+219,161201059,OĞUZHAN ERBAŞ,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+220,161301062,DEFNE ÖZTÜRK,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+221,161301042,BEYZA DUYGU YILMAZ,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+222,164301005,EZGİ LALELİDAĞ,Endüstriyel Tasarım Lisans Programı,3,Devamlı
+223,151301024,ELİF BEYZA KOCATÜRK,Endüstri Mühendisliği Lisans Programı,2,Devamlı
+224,141501004,SELAHATTİN KORKMAZ,Makine Mühendisliği Lisans Programı,4,Devamlı
+225,161301038,İDİL CEREN FİDAN,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+226,166501040,DOĞANCAN BEDİZ,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+227,161801023,ZEHRA ZİŞAN GÜLER,Malzeme Bilimi ve Nanoteknoloji Mühendisliği Lisans,3,Devamlı
+228,163320024,GÜLÜMSER AKTAŞOĞLU,Uluslararası İlişkiler Lisans Programı,4,Devamlı
+229,161301022,TUĞRUL BİLGİN,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+230,174401029,DOĞA KOCAMAN,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+231,151301072,RUKİYENUR SERT,Endüstri Mühendisliği Lisans Programı,2,Devamlı
+232,161201080,MEHMET CAN ÖZ,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+233,141301043,ECE SÖNMEZ,Endüstri Mühendisliği Lisans Programı,4,Devamsız
+234,161701001,ÖZCAN AYAZOĞLU,Biyomedikal Mühendisliği Lisans Programı,3,Devamlı
+235,175101075,AYŞE SILA ÖZTÜRK,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+236,171801012,ÇAĞATAY ATAKAN AKTEPE,Malzeme Bilimi ve Nanoteknoloji Mühendisliği Lisans,2,Devamlı
+237,154201031,MERVE İREM ÇİNKILIÇ,İç Mimarlık ve Çevre Tasarım Lisans Programı,3,Devamlı
+238,143101050,AYDA UĞRAŞ,İşletme Lisans Programı,4,Devamlı
+239,176501028,SEMRA YAREN ÇATAK,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+240,174401020,MUHAMMED BURAK ŞENSOY,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+241,174420002,YİĞİT URAS ÖZBAŞ,Görsel İletişim Tasarımı Lisans Programı,4,Devamlı
+242,161301058,MELİS METİN,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+243,166501021,NAZ GÜLCE PÜREN,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+244,131101045,TOYGAR KOCA,Bilgisayar Mühendisliği Lisans Programı,4,Devamlı
+245,165101036,NİLÜFER ŞAŞTIMDUR,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+246,164601008,ZEYNEP AKDEMİR,Mimarlık Lisans Programı,3,Devamlı
+247,161301030,AHMET BEYAZID ŞİMŞEK,Endüstri Mühendisliği Lisans Programı,2,Devamlı
+248,153201026,MEHMET SAİT DEMİRTAŞ,İktisat Lisans Programı,3,Devamlı
+249,164601002,YAKUP CESÜR,Mimarlık Lisans Programı,3,Devamlı
+250,161801001,İSMAİL ÖZTAŞ,Malzeme Bilimi ve Nanoteknoloji Mühendisliği Lisans,3,Devamlı
+251,164201010,İREM GÜNGÖR,İç Mimarlık ve Çevre Tasarım Lisans Programı,3,Devamlı
+252,175101016,SENA BARAN KAYA,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+253,164201016,NEVİN DİLAY SUNAN,İç Mimarlık ve Çevre Tasarım Lisans Programı,3,Devamlı
+254,171201067,CEYDA ELÇİN KAYA,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+255,162520005,NAZLI NURBANU KAYAN,Psikoloji Lisans Programı,2,Devamlı
+256,154201026,İREM KANTAR,İç Mimarlık ve Çevre Tasarım Lisans Programı,3,Devamlı
+257,171201052,MEHMET SEMİH SAYDAM,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+258,161301011,ÖZLEM BOZDAĞ,Endüstri Mühendisliği Lisans Programı,4,Devamlı
+259,155101077,ALİ EMRE ATAŞ,Hukuk Lisans Programı,4,Devamlı
+260,162401028,İLAYDA AŞUK,İngiliz Dili ve Edebiyatı Lisans Programı,3,Devamlı
+261,165101064,ZEYNEP SENA TOPRAK,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+262,161204001,MEHMET BERK GENECİ,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+263,161301015,EMRE DEMİREL,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+264,161501024,BARIŞ ANIL TOPCU,Makine Mühendisliği Lisans Programı,2,Devamlı
+265,141101050,MEHMET ŞAMİL KAHRAMAN,Bilgisayar Mühendisliği Lisans Programı,4,Devamlı
+266,164201001,YUNUS EMRE DEMİRCİ,İç Mimarlık ve Çevre Tasarım Lisans Programı,3,Devamlı
+267,161201047,ALPEREN BAŞKAYA,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+268,163101002,MEHMET ÇELEBİ,İşletme Lisans Programı,3,Devamlı
+269,154601045,KEREM BERKAY TAŞ,Mimarlık Lisans Programı,3,Devamlı
+270,141701009,EMİN ÜNYAY,Biyomedikal Mühendisliği Lisans Programı,2,Devamlı
+271,161501040,AHMET AYBERK ARSLAN,Makine Mühendisliği Lisans Programı,3,Devamlı
+272,161501053,HÜSEYİN ALPEREN YAZICI,Makine Mühendisliği Lisans Programı,3,Devamlı
+273,174401034,ÖZLEM ÖZER,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+274,171501001,MAHMUT BURAK ÇINAR,Makine Mühendisliği Lisans Programı,3,Devamlı
+275,153301057,İHSAN BİLGEHAN ERDOĞAN,Uluslararası İlişkiler Lisans Programı,3,Devamlı
+276,143201033,CANSU ÖZDEMİR,İktisat Lisans Programı,2,Devamlı
+277,161501019,CEMHAN EMRE ERİLMEZ,Makine Mühendisliği Lisans Programı,3,Devamlı
+278,165101028,BÜŞRA NAZ DAŞKAPAN,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+279,164401006,ZEHRA ÖMÜR DOKGÖZ,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+280,161201048,ONUR ÖZER,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+281,166501027,MUSTAFA EREN ÖZTÜRK,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+282,174401024,ÖMER SELİM GÖK,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+283,161201002,FEHİM GÖLER,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+284,165101013,EMRE YENER,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+285,161101043,FURKAN BEĞENDİ,Bilgisayar Mühendisliği Lisans Programı,3,Devamlı
+286,161501043,DİLAY OĞUZHAN,Makine Mühendisliği Lisans Programı,3,Devamlı
+287,164201008,ECEM ÇIKRIKCI,İç Mimarlık ve Çevre Tasarım Lisans Programı,3,Devamlı
+288,162501017,NACİYE ZÜLAL AYDIN,Psikoloji Lisans Programı,3,Devamlı
+289,143101074,ESRA SELİS AÇIKGÖZ,İşletme Lisans Programı,3,Devamlı
+290,164601009,ŞENGÜL BULUT,Mimarlık Lisans Programı,3,Devamlı
+291,143101065,FATİH SAMED TAŞ,İşletme Lisans Programı,3,Devamlı
+292,151101037,UMUR TOGAY YAZAR,Bilgisayar Mühendisliği Lisans Programı,4,Devamlı
+293,154601020,SEVİM PINAR YORULMAZ,Mimarlık Lisans Programı,3,Devamlı
+294,151201001,MUHAMMED RAŞİT İNCİOĞLU,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+295,161101008,ZEYNEP İREM DEMİREL,Bilgisayar Mühendisliği Lisans Programı,4,Devamlı
+296,175101015,HİLDA SAK,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+297,171201072,MEHMET EFE AKALIN,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+298,174401012,ÖZGE ECEM KALYON,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+299,174420007,MERVE TİRYAKİOĞLU,Görsel İletişim Tasarımı Lisans Programı,4,Devamlı
+300,171201027,BARAN BAYCU,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+301,175101079,ECEM KOÇAK,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+302,161201043,ENGİN SEFA GÜNGÖR,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+303,174401023,ŞEVVAL SENCAR,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+304,161201012,BEKİR YİĞİT ANLIAÇ,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+305,163101004,MEHMET SADİ ŞENOL,İşletme Lisans Programı,3,Devamlı
+306,161501054,ÖNDER BORA BAFLI,Makine Mühendisliği Lisans Programı,3,Devamlı
+307,175101096,ALİ ATA SARAÇOĞLU,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+308,161201004,ŞEVKET EMRE AKDAĞ,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+309,161201016,CELAL ERAT,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+310,153201056,UMUT CAN KAYA,İktisat Lisans Programı,3,Devamlı
+311,174401003,SAMET SÖYLEMEZ,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+312,165101035,BATUHAN ZORLU,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+313,174401015,MELİKE İNCEL,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+314,161201078,GÖKBERK GÖKÇEN,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+315,174401002,BERKE ŞİMŞEK,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+316,174420001,DOĞUŞ AYDIN,Görsel İletişim Tasarımı Lisans Programı,4,Devamlı
+317,164301006,BÜŞRA YELİZ KARAOĞLU,Endüstriyel Tasarım Lisans Programı,3,Devamlı
+318,154301017,BUKET SAĞLAM,Endüstriyel Tasarım Lisans Programı,3,Devamlı
+319,174401021,OĞUZ MELİH ARSLAN,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+320,161301032,FATİH SULTAN KAZDAL,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+321,163201041,HÜSEYİN BÜYÜKFİDAN,İktisat Lisans Programı,3,Devamlı
+322,174301004,ENES YURDUSEVEN,Endüstriyel Tasarım Lisans Programı,3,Devamlı
+323,154301008,ERTUĞRUL SAMED ÜSTÜNDAĞ,Endüstriyel Tasarım Lisans Programı,3,Devamlı
+324,164301011,ELİF KÜÇÜKMUSTAFA,Endüstriyel Tasarım Lisans Programı,3,Devamlı
+325,164601034,MERVE UĞURLU,Mimarlık Lisans Programı,3,Devamlı
+326,165101012,DİDEM ÇAĞLAR,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+327,164601001,BÜŞRA BAL,Mimarlık Lisans Programı,3,Devamlı
+328,161501006,HAKAN AYAZOĞLU,Makine Mühendisliği Lisans Programı,3,Devamlı
+329,163201025,YİĞİT EROL,İktisat Lisans Programı,3,Devamlı
+330,164301003,BEYZA ÜNSAL,Endüstriyel Tasarım Lisans Programı,3,Devamlı
+331,164301008,ENDERHAN YILMAZ,Endüstriyel Tasarım Lisans Programı,4,Devamlı
+332,164201050,EZGİ AYDIN,İç Mimarlık ve Çevre Tasarım Lisans Programı,3,Devamlı
+333,171501022,DENİZ GİRESUNLU,Makine Mühendisliği Lisans Programı,3,Devamlı
+334,131501035,YALÇIN HAKAN AKTAR,Makine Mühendisliği Lisans Programı,3,Devamlı
+335,161501051,KAAN AKIN ARI,Makine Mühendisliği Lisans Programı,3,Devamlı
+336,143301066,CANSU FINDIK,Uluslararası İlişkiler Lisans Programı,4,Devamlı
+337,161501023,SENA GÖZDE YILDIRIM,Makine Mühendisliği Lisans Programı,3,Devamlı
+338,174401016,ATAHAN GÜLSAL,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+339,165101061,İREM AYDIN,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+340,166501017,FATMA BAL,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+341,173101036,AHMET ALP ÇİNAR,İşletme Lisans Programı,3,Devamlı
+342,151701023,BARIŞ ORHAN,Biyomedikal Mühendisliği Lisans Programı,3,Devamlı
+343,162401026,NERGİS AYKAÇ,İngiliz Dili ve Edebiyatı Lisans Programı,3,Devamlı
+344,174401026,GÜLCE CANBAZ,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+345,155101016,AHMET BUĞRA KELEŞ,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+346,163101033,DENİZ ALTUNTAŞ,İşletme Lisans Programı,3,Devamlı
+347,164601006,EBRİKE KARACA,Mimarlık Lisans Programı,3,Devamlı
+348,171201065,BARIŞ MAMUR,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+349,164301001,ORHUN ÜNAL,Endüstriyel Tasarım Lisans Programı,3,Devamlı
+350,151701036,ZEYNEP KÖKER,Biyomedikal Mühendisliği Lisans Programı,3,Devamlı
+351,151501077,MERT BATTAL ŞEN,Makine Mühendisliği Lisans Programı,3,Devamlı
+352,174301014,MELİSA ÖZCAN,Endüstriyel Tasarım Lisans Programı,3,Devamlı
+353,151801027,ERDEM DENİZ,Malzeme Bilimi ve Nanoteknoloji Mühendisliği Lisans,3,Devamlı
+354,171801011,MEHMET ATIF DURMUŞ,Malzeme Bilimi ve Nanoteknoloji Mühendisliği Lisans,3,Devamlı
+355,153201041,OSMAN BAHADIR ÇELEBİ,İktisat Lisans Programı,3,Devamlı
+356,164404005,FURKAN BELEN,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+357,175101063,MUHAMMED TARIK İLHAN,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+358,176501059,YUNUS DUMAN,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+359,153101054,ÖMER KARAKAYA,İşletme Lisans Programı,3,Devamlı
+360,164201006,ŞİMAL ZELAL ÇEÇEN,İç Mimarlık ve Çevre Tasarım Lisans Programı,3,Devamlı
+361,174204001,MERYEM AKÇA,İç Mimarlık ve Çevre Tasarım Lisans Programı,4,Devamlı
+362,171101046,BERKEHAN ÖZEN,Bilgisayar Mühendisliği Lisans Programı,3,Devamlı
+363,181304002,EMİNE BULUT,Endüstri Mühendisliği Lisans Programı,2,Devamlı
+364,154301021,DENİZ BARAN YAĞMUR,Endüstriyel Tasarım Lisans Programı,3,Devamlı
+365,173101001,NUR BİLGESU ODABAŞ,İşletme Lisans Programı,3,Devamlı
+366,163101023,TOLUNAY YAĞIZ KEKLİK,İşletme Lisans Programı,3,Devamlı
+367,161301050,DENİZ ŞENOL,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+368,163101015,ERTUĞRUL ÜNLÜ,İşletme Lisans Programı,3,Devamlı
+369,161201037,YILMAZ ÇINAR,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+370,166501009,EYLEM UYSAL,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+371,153301012,SEÇKİN ŞENOL,Uluslararası İlişkiler Lisans Programı,3,Devamlı
+372,171301040,YAREN GÜL,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+373,162501023,ELİF KOÇ,Psikoloji Lisans Programı,3,Devamlı
+374,171301016,ZEYNEP DİNÇER,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+375,161301002,ELİF DEMİRKAYA,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+376,164601023,BURÇİN PELİN KANTAŞ,Mimarlık Lisans Programı,3,Devamlı
+377,175101051,BERNA CİNGÖZ,Hukuk Lisans Programı (%30 İngilizce),4,Devamlı
+378,163101040,METİN ENES KARAT,İşletme Lisans Programı,3,Devamlı
+379,162201006,HALE NUR YENİHANÇER,Türk Dili ve Edebiyatı Lisans Programı,3,Devamlı
+380,162401018,AYLİN ÇAKAR,İngiliz Dili ve Edebiyatı Lisans Programı,3,Devamlı
+381,145101047,AHMET ZAHİD ÜNLÜ,Hukuk Lisans Programı,4,Devamlı
+382,173201004,ALPER ÜNALAN,İktisat Lisans Programı,3,Devamlı
+383,143101044,BATUHAN TANRIKULU,İşletme Lisans Programı,3,Devamlı
+384,171701019,ELİF NAZ KARAGÜLLE,Biyomedikal Mühendisliği Lisans Programı,3,Devamlı
+385,163201004,İHSAN ÇELEN,İktisat Lisans Programı,4,Devamlı
+386,162401011,SARA AÇIKBAŞ,İngiliz Dili ve Edebiyatı Lisans Programı,3,Devamlı
+387,161201044,UTKU YENİLLİ,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+388,172201009,HATİCE MELİSA YILMAZ,Türk Dili ve Edebiyatı Lisans Programı,3,Devamlı
+389,164204004,SELİNAY ARSLAN,İç Mimarlık ve Çevre Tasarım Lisans Programı,3,Devamlı
+390,165101001,BURAK BİÇER,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+391,161501004,MUHAMMED CİHAN TEZEL,Makine Mühendisliği Lisans Programı,3,Devamlı
+392,164401007,BAŞAK BETÜL ŞENOL,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+393,164401021,İLBER CEM ELMAS,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+394,154201005,ESMA ESER,İç Mimarlık ve Çevre Tasarım Lisans Programı,3,Devamlı
+395,164401013,BERKE ŞEKERALMAZ,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+396,171201054,ENES BERKE KARAYİĞİT,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+397,151501036,OĞULCAN SOFUOĞLU,Makine Mühendisliği Lisans Programı,3,Devamlı
+398,164601036,EMRE CANSEVER,Mimarlık Lisans Programı,3,Devamlı
+399,161201073,AYBÜKE ERGUN,Elektrik ve Elektronik Mühendisliği,4,Devamlı
+400,166501015,METEHAN TOY,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+401,141701032,AYŞENUR KERPETEN,Biyomedikal Mühendisliği Lisans Programı,3,Devamlı
+402,163201003,ÖMER FARUK KARAAHMETOĞLU,İktisat Lisans Programı,3,Devamlı
+403,161201008,BURAK YAKUP ÇAKAR,Elektrik ve Elektronik Mühendisliği,4,Devamlı
+404,131101065,EGE TAN,Bilgisayar Mühendisliği Lisans Programı,4,Devamlı
+405,174601014,PÜREN BAHÇİVAN,Mimarlık Lisans Programı,3,Devamlı
+406,161301033,MUSTAFA BERAT ÖRS,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+407,163201019,ONUR TÜFEKÇİ,İktisat Lisans Programı,3,Devamlı
+408,162301010,YUSUF KEMAL TOK,Tarih Lisans Programı (%30 İngilizce),3,Devamsız
+409,165101072,ÇAĞDA ANDAÇ HATİPOĞLU,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+410,141101075,DENİZ ÖNER,Bilgisayar Mühendisliği Lisans Programı,3,Devamlı
+411,164301013,EGE ERDEN,Endüstriyel Tasarım Lisans Programı,4,Devamlı
+412,161701023,ALİ EREN YÜKSEL,Biyomedikal Mühendisliği Lisans Programı,3,Devamlı
+413,152501018,MELDA KAYA,Psikoloji Lisans Programı,3,Devamlı
+414,162501028,BUKET KARADAŞ,Psikoloji Lisans Programı,3,Devamlı
+415,173101058,ÖYKÜ GÖR,İşletme Lisans Programı,3,Devamlı
+416,164601049,SELİM EGE ÖZCAN,Mimarlık Lisans Programı,3,Devamlı
+417,163101007,BERRA DEMİREL,İşletme Lisans Programı,3,Devamlı
+418,161501011,BUĞRAHAN UYSAL,Makine Mühendisliği Lisans Programı,3,Devamlı
+419,153201022,BERKAN SARIYILDIZ,İktisat Lisans Programı,3,Devamlı
+420,154201028,MİNE AYDIN,İç Mimarlık ve Çevre Tasarım Lisans Programı,3,Devamlı
+421,153104004,İBRAHİM BABAOĞLU,İşletme Lisans Programı,3,Devamlı
+422,165101069,MELDA NUR ORDU,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+423,161201046,BERKAY KAHRAMAN,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+424,161501062,SILA FATMA SEYDİM,Makine Mühendisliği Lisans Programı,3,Devamlı
+425,171201077,MERT ÇOLAK,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+426,162501002,TOLGA BÜKRÜK,Psikoloji Lisans Programı,3,Devamlı
+427,161501056,BERK KISA,Makine Mühendisliği Lisans Programı,3,Devamlı
+428,164601011,BENGÜSU GÜLHANIM YEŞİLOĞLU,Mimarlık Lisans Programı,3,Devamlı
+429,152501034,CANSU YAZICI,Psikoloji Lisans Programı,3,Devamlı
+430,141201075,BAHA ALPER GİRAZ,Elektrik ve Elektronik Mühendisliği,2,Devamlı
+431,143201068,EGE ŞENER,İktisat Lisans Programı,3,Devamlı
+432,163201012,MEHMET FATİH ALTINTAŞ,İktisat Lisans Programı,3,Devamlı
+433,163201042,NURAY BAKİOĞLU,İktisat Lisans Programı,3,Devamlı
+434,165101060,RABİA NUR DEMİR,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+435,166501053,BAHADIR NAFİZ YAVUZ,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+436,172501031,İREM BERİL KARAÇALIK,Psikoloji Lisans Programı,3,Devamlı
+437,161501075,ŞERİFE EDA TUNCER,Makine Mühendisliği Lisans Programı,4,Devamlı
+438,161701006,RABİA KAŞIKCI,Biyomedikal Mühendisliği Lisans Programı,3,Devamlı
+439,161101045,BETÜL AKKUŞ,Bilgisayar Mühendisliği Lisans Programı,3,Devamlı
+440,163201037,GÖZDE SELVİ,İktisat Lisans Programı,3,Devamlı
+441,151301068,MURAT KAAN TEMİZKAN,Endüstri Mühendisliği Lisans Programı,2,Devamlı
+442,164401034,SENANUR KESİMAL,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+443,162201011,MELİKE KANAT,Türk Dili ve Edebiyatı Lisans Programı,3,Devamlı
+444,145101067,SÜMEYYE ACIELMA,Hukuk Lisans Programı,4,Devamlı
+445,162501018,AYGEN BESTE ÖZİÇ,Psikoloji Lisans Programı,3,Devamlı
+446,131201052,ABDULLAH SELMAN ÇAKIR,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+447,154601031,ADIR RUMET BİRTANE,Mimarlık Lisans Programı,3,Devamlı
+448,164601035,ASUDE AYDIN,Mimarlık Lisans Programı,3,Devamlı
+449,175101024,MERT BODUR,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+450,166501041,BATUHAN ORUÇ,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+451,173201057,EROL GÖK,İktisat Lisans Programı,2,Devamlı
+452,172201006,NURSİMA ZEYNEP ATSIZ,Türk Dili ve Edebiyatı Lisans Programı,3,Devamlı
+453,165101070,BEDİRHAN TALHA ÖZIŞIK,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+454,172401013,KÜBRA ÇELİKBAŞ,İngiliz Dili ve Edebiyatı Lisans Programı,2,Devamlı
+455,153201031,YILMAZ BERKE SARAL,İktisat Lisans Programı,3,Devamlı
+456,153201014,BÜŞRANUR DALKILIÇ,İktisat Lisans Programı,3,Devamlı
+457,172401001,FATMA BİLGİN USLU,İngiliz Dili ve Edebiyatı Lisans Programı,3,Devamlı
+458,165101076,NURDOĞAN ŞENSOY,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+459,172201010,ÖZGE ATALAY,Türk Dili ve Edebiyatı Lisans Programı,3,Devamlı
+460,163201060,ÖZGE GÖKSU BAŞER,İktisat Lisans Programı,3,Devamlı
+461,162520011,TUĞBA AKCAN,Psikoloji Lisans Programı,4,Devamsız
+462,164301024,BAŞAK DALGIÇ,Endüstriyel Tasarım Lisans Programı,3,Devamlı
+463,164201002,TUĞBA ÇALIŞKAN,İç Mimarlık ve Çevre Tasarım Lisans Programı,3,Devamlı
+464,163201002,AFRA NUR ARIKAN,İktisat Lisans Programı,3,Devamlı
+465,164401024,EMİR BERAT ÖZER,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+466,163101034,DENİZ TELLİOĞLU,İşletme Lisans Programı,3,Devamlı
+467,151501060,İREM DOĞAN,Makine Mühendisliği Lisans Programı,3,Devamlı
+468,161201006,ENES KAYA,Elektrik ve Elektronik Mühendisliği,4,Devamlı
+469,161201011,MESUT DEMİRCİOĞLU,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+470,161501033,MURTAZA YEĞENLER,Makine Mühendisliği Lisans Programı,3,Devamlı
+471,174401019,BERRENAZ GÖKTAŞ,Görsel İletişim Tasarımı Lisans Programı,2,Devamlı
+472,171201003,MUHAMMED SERHAN GENİŞ,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+473,153301040,ÖMER FARUK ARSEVEN,Uluslararası İlişkiler Lisans Programı,3,Devamlı
+474,166501034,EGE ERALP,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+475,144401029,SARP ADANIR,Görsel İletişim Tasarımı Lisans Programı,2,Devamlı
+476,161701018,MUHAMMED FURKAN UMAN,Biyomedikal Mühendisliği Lisans Programı,3,Devamlı
+477,161801019,İREM AKIN,Malzeme Bilimi ve Nanoteknoloji Mühendisliği Lisans,3,Devamlı
+478,151801011,MUHAMMED MUSTAFA SÜRÜCÜ,Malzeme Bilimi ve Nanoteknoloji Mühendisliği Lisans,2,Devamlı
+479,173204061,NUR ELTÜRK,İktisat Lisans Programı,4,Devamlı
+480,165101003,BÜŞRA NUR TÜLÜ,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+481,111501012,SALTUK BUĞRA DAŞTAN,Makine Mühendisliği Lisans Programı,3,Devamlı
+482,172504001,SENA ÖZBEYOĞLU,Psikoloji Lisans Programı,3,Devamlı
+483,161801009,BUĞRA AÇIKGÖZ,Malzeme Bilimi ve Nanoteknoloji Mühendisliği Lisans,3,Devamlı
+484,171101015,NEHİR İDİL YÜKSEL,Bilgisayar Mühendisliği Lisans Programı,3,Devamlı
+485,175101027,FURKAN ERDEN,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+486,163201008,BENSU ŞENER,İktisat Lisans Programı,3,Devamlı
+487,154201023,AYBUSE AY,İç Mimarlık ve Çevre Tasarım Lisans Programı,4,Devamlı
+488,151201061,ALİ OSMAN ŞAHBAZ,Elektrik ve Elektronik Mühendisliği,4,Devamlı
+489,164601012,HAKAN YÜZÜGÜLLÜ,Mimarlık Lisans Programı,3,Devamlı
+490,162401027,EZGİ GÜNGÖR,İngiliz Dili ve Edebiyatı Lisans Programı,3,Devamlı
+491,162501016,ARDA UZAN,Psikoloji Lisans Programı,3,Devamlı
+492,163201046,MEHMET SAFA BAYIRLI,İktisat Lisans Programı,2,Devamlı
+493,174204003,ZEYNEP DAĞ,İç Mimarlık ve Çevre Tasarım Lisans Programı,3,Devamlı
+494,163101013,MUSAB KAYMAK,İşletme Lisans Programı,4,Devamlı
+495,163201034,AYŞE TUĞÇE ŞENSOY,İktisat Lisans Programı,3,Devamlı
+496,174401006,BERİL SİMAY GÜNALP,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+497,166501001,ESMA DOĞAN,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+498,166501003,NAGİHAN VATANSEVER,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+499,164601029,GÖKHAN SAGUN,Mimarlık Lisans Programı,3,Devamlı
+500,165101019,AYŞE EYLÜL AÇIK,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+501,161501007,SERHAN SERT,Makine Mühendisliği Lisans Programı,3,Devamlı
+502,163101035,SELENAY AKSOY,İşletme Lisans Programı,3,Devamlı
+503,161201032,BERKAY TUNCEL,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+504,143201073,MERT BAYRAKTUTAN,İktisat Lisans Programı,3,Devamlı
+505,165101016,SERAY ÇİNAR,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+506,162201003,SEVİMNUR MENEKŞE,Türk Dili ve Edebiyatı Lisans Programı,3,Devamlı
+507,161501052,ALİ KIZILTAŞ,Makine Mühendisliği Lisans Programı,3,Devamlı
+508,172201011,BUSE BAYRAKÇI,Türk Dili ve Edebiyatı Lisans Programı,3,Devamlı
+509,174401027,EZGİ DEMİR,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+510,161801017,BURKAY KÜLAHÇIOĞLU,Malzeme Bilimi ve Nanoteknoloji Mühendisliği Lisans,3,Devamlı
+511,166501022,ELİF KELEKCİ,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+512,161301078,YAŞAR BAHA ÇIKINLAR,Endüstri Mühendisliği Lisans Programı,2,Devamlı
+513,162501001,RUKİYE YILDIZ,Psikoloji Lisans Programı,3,Devamlı
+514,171301055,BAŞAK HELVACI,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+515,172401011,AYŞENUR ÖZTÜRK,İngiliz Dili ve Edebiyatı Lisans Programı,3,Devamlı
+516,165101033,İREM ACAR,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+517,153201044,TAYİP HOŞER,İktisat Lisans Programı,2,Devamlı
+518,174404001,ZÜBEYDE NUR COŞĞUN,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+519,165101030,GAMZE NUR BERBERLER,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+520,161801027,ARDA KURUCU,Malzeme Bilimi ve Nanoteknoloji Mühendisliği Lisans,3,Devamlı
+521,166501018,ENES İSMAİL ÖZTÜRK,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+522,151201052,BURAK BATUHAN ERTEKİN,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+523,162501003,SEDANUR CAYDI,Psikoloji Lisans Programı,3,Devamlı
+524,161301023,BİLGE CANDAN,Endüstri Mühendisliği Lisans Programı,2,Devamlı
+525,165101031,BUĞRA KAHVECİ,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+526,143201042,MUSTAFA ÖZKAN,İktisat Lisans Programı,3,Devamlı
+527,154201037,ERHAN DEMİRER,İç Mimarlık ve Çevre Tasarım Lisans Programı,3,Devamlı
+528,165101063,ÖMER CAN ALKAN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+529,154201008,PELİN YALÇIN,İç Mimarlık ve Çevre Tasarım Lisans Programı,3,Devamlı
+530,174204002,ŞİRA GÜNDÜZ,İç Mimarlık ve Çevre Tasarım Lisans Programı,3,Devamlı
+531,165101065,MELTEM GÖNCÜOĞLU,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+532,141201029,ONUR KANGAL,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+533,151801026,ALP ONAT DEMİREL,Malzeme Bilimi ve Nanoteknoloji Mühendisliği Lisans,2,Devamlı
+534,164201018,GÜLBEN İDİL KORKMAZ,İç Mimarlık ve Çevre Tasarım Lisans Programı,3,Devamlı
+535,155101055,NİL SENA DENLİ,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+536,176501017,HAKAN ARSLANBENZER,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+537,161201030,FURKAN ŞERİF ÖZDEMİR,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+538,154301007,HALENUR EŞKİN,Endüstriyel Tasarım Lisans Programı,4,Devamlı
+539,141801023,BURAK YÜCETÜRK,Malzeme Bilimi ve Nanoteknoloji Mühendisliği Lisans,3,Devamlı
+540,131301006,UĞUR ŞİMŞEK,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+541,171701002,AYŞEGÜL KALEMCİ,Biyomedikal Mühendisliği Lisans Programı,3,Devamlı
+542,121201065,BERKAN DEMİRCİ,Elektrik ve Elektronik Mühendisliği,2,Devamlı
+543,143301033,ZEYNEP KARTAL,Uluslararası İlişkiler Lisans Programı,4,Devamlı
+544,161101079,MEHMET MURAT AKBURAK,Bilgisayar Mühendisliği Lisans Programı,3,Devamlı
+545,165101034,MURAT GÜNEŞ,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+546,154204006,EYLÜL ŞAHİN,İç Mimarlık ve Çevre Tasarım Lisans Programı,3,Devamlı
+547,174420005,MERT EFE KOÇ,Görsel İletişim Tasarımı Lisans Programı,3,Devamlı
+548,166501005,MEHMET ZAHİT MORAN,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+549,155101063,YILMAZ EFE TÜRKYILMAZ,Hukuk Lisans Programı,3,Devamlı
+550,153201038,SANEM ÇANKAYA,İktisat Lisans Programı,4,Devamlı
+551,161801015,ERHAN GÜRPINAR,Malzeme Bilimi ve Nanoteknoloji Mühendisliği Lisans,3,Devamlı
+552,165101057,GÜLSERİ AYGÜL,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+553,171101001,YAVUZ ALGÜN,Bilgisayar Mühendisliği Lisans Programı,3,Devamlı
+554,161501080,BERAT BEYİT,Makine Mühendisliği Lisans Programı,3,Devamlı
+555,162501020,MERVE NURAY AYÖZCAN,Psikoloji Lisans Programı,3,Devamlı
+556,161501027,TALHA FELEKOĞLU,Makine Mühendisliği Lisans Programı,3,Devamlı
+557,151501070,SELEN NEMLİ,Makine Mühendisliği Lisans Programı,4,Devamsız
+558,161201001,MEHMET ENES UYSAK,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+559,161501066,DENİZ AKBULUT,Makine Mühendisliği Lisans Programı,3,Devamlı
+560,161701003,AYŞEGÜL AYBİRDİ,Biyomedikal Mühendisliği Lisans Programı,3,Devamlı
+561,164601017,OĞUZ KAĞAN ERGE,Mimarlık Lisans Programı,3,Devamlı
+562,165101081,EZGİ AYDOĞAN,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+563,164201034,ELİF TÜFEKCİ,İç Mimarlık ve Çevre Tasarım Lisans Programı,3,Devamlı
+564,124601029,MUHAMMED EMİR KOCAMAN,Mimarlık Lisans Programı,4,Devamsız
+565,151201013,FURKAN KAHRAMAN,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+566,184604002,BESTE UÇAN,Mimarlık,3,Devamlı
+567,161201021,ERKUT DEDEAĞAOĞLU,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+568,164301015,HELİN KEMENT,Endüstriyel Tasarım Lisans Programı,3,Devamlı
+569,151801035,ZORLU TUNA KOÇ,Malzeme Bilimi ve Nanoteknoloji Mühendisliği Lisans,2,Devamlı
+570,123501041,OSMAN ŞENOL,Siyaset Bilimi Lisans Programı,2,Devamlı
+571,171501017,AHMET YAYNIK,Makine Mühendisliği Lisans Programı,3,Devamlı
+572,164201025,BEGÜM AVSEVER,İç Mimarlık ve Çevre Tasarım Lisans Programı,3,Devamlı
+573,161101004,SAMET CAN ALTUNSOY,Bilgisayar Mühendisliği Lisans Programı,3,Devamlı
+574,143201051,YURT HASRET ÖZKAN,İktisat Lisans Programı,3,Devamlı
+575,164601040,EMİNE RÜVEYDA TÜRKOĞLU,Mimarlık Lisans Programı,3,Devamlı
+576,161301073,CEREN TOSUN,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+577,174601044,EGE İLERİ,Mimarlık Lisans Programı,3,Devamlı
+578,154601036,BERKE DİLAVER,Mimarlık Lisans Programı,3,Devamlı
+579,161201009,ÖMER ELİTOK,Elektrik ve Elektronik Mühendisliği,4,Devamlı
+580,161301004,MEHMET EMİN BULUN,Endüstri Mühendisliği Lisans Programı,3,Devamlı
+581,161201025,YUNUS EMRE YILMAZ,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+582,175101010,EGE MİYRA İSKİT,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+583,165101006,ŞUAYİP SAKALLI,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+584,171501049,İLAYDA METİN,Makine Mühendisliği Lisans Programı,3,Devamlı
+585,161201033,MERT OĞUZ,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+586,153101059,ELİF NUR MALKOÇ,İşletme Lisans Programı,3,Devamlı
+587,166501038,AYSU ASAN,Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı,3,Devamlı
+588,165101086,ESMA GİZEM GÖKÇE,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+589,165101085,DİLA ÖZDEMİR,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+590,143501038,RAFET TUNGA TEGİN KUTLU,Siyaset Bilimi Lisans Programı,3,Devamlı
+591,163104002,EMİRHAN YEŞİLBAŞ,İşletme Lisans Programı,3,Devamlı
+592,161301076,HASAN GÖKTUĞ ÇELENK,Endüstri Mühendisliği Lisans Programı,4,Devamlı
+593,164201020,İPEK TAMUR,İç Mimarlık ve Çevre Tasarım Lisans Programı,3,Devamlı
+594,135101069,EMRE UTLU,Hukuk Lisans Programı,4,Devamlı
+595,163101041,MURAT ÖZDEMİR,İşletme Lisans Programı,3,Devamlı
+596,153201047,AHMET ÇÖLMEK,İktisat Lisans Programı,3,Devamlı
+597,133101057,EFE SİNAN ŞENER,İşletme Lisans Programı,2,Devamlı
+598,155101074,TAYLAN TAPTIK,Hukuk Lisans Programı,2,Devamlı
+599,171501066,YAĞANALP BOZKURT,Makine Mühendisliği Lisans Programı,3,Devamlı
+600,143301048,FATMANUR DEMİR,Uluslararası İlişkiler Lisans Programı,4,Devamlı
+601,161201065,BARAN ESMER,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+602,165101010,ŞEYMA CEYLAN,Hukuk Lisans Programı (%30 İngilizce),3,Devamlı
+603,151501032,EYMEN SAİTOĞLU,Makine Mühendisliği Lisans Programı,3,Devamlı
+604,151501051,KIVANÇ ESKİ,Makine Mühendisliği Lisans Programı,3,Devamlı
+605,171101040,AHSEN TÜRKSOY,Bilgisayar Mühendisliği Lisans Programı,3,Devamlı
+606,181204004,NAİL AYDOĞAN,Elektrik ve Elektronik Mühendisliği,3,Devamlı
+607,153201020,MUSTAFA TAŞ,İktisat Lisans Programı,3,Devamlı
+608,153401002,TUNAHAN KÖŞŞEKOĞLU,İktisat Lisans Programı,3,Devamlı

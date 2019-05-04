@@ -1,1 +1,11 @@
-煪be : 1 - Nihat EYCE - Toplam : 4
+��ube : 1 - Nihat EYCE - Toplam : 4
+Sal覺 - 13:30 - 14:20 - FAB_LAB (GSF)
+Cuma - 13:30 - 14:20 - 212 (GSF)
+Sal覺 - 14:30 - 15:20 - FAB_LAB (GSF)
+Cuma - 14:30 - 15:20 - 212 (GSF)
+Sal覺 - 15:30 - 16:20 - FAB_LAB (GSF)
+Cuma - 15:30 - 16:20 - 212 (GSF)
+Sal覺 - 16:30 - 17:20 - FAB_LAB (GSF)
+Cuma - 16:30 - 17:20 - 212 (GSF)
+Sal覺 - 17:30 - 18:20 - FAB_LAB (GSF)
+Cuma - 17:30 - 18:20 - 212 (GSF)

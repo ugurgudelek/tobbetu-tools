@@ -1,9 +1,9 @@
-Şube : 1 - Betül BİLGE - Toplam : 1
-Perşembe - 09:30 - 10:20 - X013
-Perşembe - 10:30 - 11:20 - X013
-Perşembe - 11:30 - 12:20 - X013
-Perşembe - 12:30 - 13:20 - X013
-Perşembe - 13:30 - 14:20 - X013
-Perşembe - 14:30 - 15:20 - X013
-Perşembe - 15:30 - 16:20 - X013
-Perşembe - 16:30 - 17:20 - X013
+Åube : 1 - BetÃ¼l BÄ°LGE - Toplam : 1
+PerÅŸembe - 09:30 - 10:20 - X013
+PerÅŸembe - 10:30 - 11:20 - X013
+PerÅŸembe - 11:30 - 12:20 - X013
+PerÅŸembe - 12:30 - 13:20 - X013
+PerÅŸembe - 13:30 - 14:20 - X013
+PerÅŸembe - 14:30 - 15:20 - X013
+PerÅŸembe - 15:30 - 16:20 - X013
+PerÅŸembe - 16:30 - 17:20 - X013

@@ -16,7 +16,7 @@ import configparser
 import argparse
 import re
 
-SESSION_NO = '973FF64C-D83C-4024-B3B0-79CB4B224FE4'
+SESSION_NO = 'EBEC2AB4-0EF5-477C-B47B-F83B127394FD'
 BASE_URL = f'https://program.etu.edu.tr/DersProgrami/?oturumNo={SESSION_NO}#/'
 
 chrome_options = Options()
@@ -73,7 +73,7 @@ def course_schedule_to_csv(course_schedule_link):
         section_dir = os.path.join(course_dir, str(section_num))
         os.makedirs(section_dir, exist_ok=True)
 
-        with open(os.path.join(section_dir, 'info.txt'), 'a') as f:
+        with open(os.path.join(section_dir, 'info.txt'), 'a', encoding='utf-8') as f:
             for slot in slots:
                 f.write("\n")
                 f.write(str(slot))
@@ -115,7 +115,7 @@ def student_lists_to_csv(student_list_link):
         section_dir = os.path.join(course_dir, str(section_num))
         os.makedirs(section_dir, exist_ok=True)
 
-        with open(os.path.join(section_dir, 'info.txt'), 'w') as f:
+        with open(os.path.join(section_dir, 'info.txt'), 'w', encoding='utf-8') as f:
             f.write(section_info)
         df.to_csv(os.path.join(section_dir, f"{section_num}.csv"))
 
@@ -127,8 +127,8 @@ with tqdm(total=len(courses)) as pbar:
         course_dir = os.path.join('..', 'course_student_list', f"{code}")
         os.makedirs(course_dir, exist_ok=True)
 
-        with open(os.path.join(course_dir, 'info.txt'), 'w') as f:
-            f.write(course_name)
+        with open(os.path.join(course_dir, 'info.txt'), 'w', encoding='utf-8') as f:
+            f.write(course_name.strip())
 
         course_schedule_link = BASE_URL + f"ders/dersprogram/{code}/0"
         student_list_link = BASE_URL+f"sube/ogrencilist/{code}/0"

@@ -1,2 +1,1 @@
-                                            ELE 301 Kontrol Sistemleri I
-                                        
+ELE 301 Kontrol Sistemleri I

@@ -1,5 +1,5 @@
-Şube : 1 - Barış KONUK - Toplam : 23
-Perşembe - 13:30 - 14:20 - B72
-Perşembe - 14:30 - 15:20 - B72
-Perşembe - 15:30 - 16:20 - B72
-Perşembe - 16:30 - 17:20 - B72
+Åube : 1 - BarÄ±ÅŸ KONUK - Toplam : 23
+PerÅŸembe - 13:30 - 14:20 - B72
+PerÅŸembe - 14:30 - 15:20 - B72
+PerÅŸembe - 15:30 - 16:20 - B72
+PerÅŸembe - 16:30 - 17:20 - B72

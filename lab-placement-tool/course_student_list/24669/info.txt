@@ -1,2 +1,1 @@
-                                            END 597 Seminer
-                                        
+END 597 Seminer

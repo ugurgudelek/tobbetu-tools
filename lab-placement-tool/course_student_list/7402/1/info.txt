@@ -1,5 +1,5 @@
-Şube : 1 - Hakan Övünç ONGUR - Toplam : 42
-Perşembe - 09:30 - 10:20 - 371
-Perşembe - 10:30 - 11:20 - 371
-Salı - 11:30 - 12:20 - 371
-Salı - 12:30 - 13:20 - 371
+Åube : 1 - Hakan Ã–vÃ¼nÃ§ ONGUR - Toplam : 42
+PerÅŸembe - 09:30 - 10:20 - 371
+PerÅŸembe - 10:30 - 11:20 - 371
+SalÄ± - 11:30 - 12:20 - 371
+SalÄ± - 12:30 - 13:20 - 371

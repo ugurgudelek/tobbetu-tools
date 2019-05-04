@@ -1,7 +1,7 @@
-Þube : 1 - Hakan DÝLÝPAK - Toplam : 23
-Perþembe - 08:30 - 09:20 - 312 (BIL LAB)
-Perþembe - 09:30 - 10:20 - 312 (BIL LAB)
-Perþembe - 10:30 - 11:20 - 312 (BIL LAB)
+Åžube : 1 - Hakan DÄ°LÄ°PAK - Toplam : 23
+PerÅŸembe - 08:30 - 09:20 - 312 (BIL LAB)
+PerÅŸembe - 09:30 - 10:20 - 312 (BIL LAB)
+PerÅŸembe - 10:30 - 11:20 - 312 (BIL LAB)
 Pazartesi - 13:30 - 14:20 - 312 (BIL LAB)
 Pazartesi - 14:30 - 15:20 - 312 (BIL LAB)
 Pazartesi - 15:30 - 16:20 - 312 (BIL LAB)

@@ -1,1 +1,6 @@
-�ube : 1 - SVETLANA STOMATOVA - Toplam : 10
+Şube : 1 - SVETLANA STOMATOVA - Toplam : 10
+Çarşamba - 10:30 - 11:20 - Y405
+Çarşamba - 11:30 - 12:20 - Y405
+Cumartesi - 11:30 - 12:20 - Y405
+Cumartesi - 12:30 - 13:20 - Y405
+Cumartesi - 13:30 - 14:20 - Y405

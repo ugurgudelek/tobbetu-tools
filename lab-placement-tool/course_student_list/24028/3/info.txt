@@ -1,0 +1,11 @@
+Şube : 3 - MURAT SÖNMEZ - Toplam : 1
+Salı - 13:30 - 14:20 - ST03 (GSF)
+Cuma - 13:30 - 14:20 - ST01 (GSF)
+Salı - 14:30 - 15:20 - ST03 (GSF)
+Cuma - 14:30 - 15:20 - ST01 (GSF)
+Salı - 15:30 - 16:20 - ST03 (GSF)
+Cuma - 15:30 - 16:20 - ST01 (GSF)
+Salı - 16:30 - 17:20 - ST03 (GSF)
+Cuma - 16:30 - 17:20 - ST01 (GSF)
+Salı - 17:30 - 18:20 - ST03 (GSF)
+Cuma - 17:30 - 18:20 - ST01 (GSF)

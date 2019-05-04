@@ -1,8 +1,8 @@
-Þube : 1 - FÝLÝZ ÞENLER - Toplam : 26
-Salý - 08:30 - 09:20 - DESEN_A
-Salý - 09:30 - 10:20 - DESEN_A
-Salý - 10:30 - 11:20 - DESEN_A
-Salý - 11:30 - 12:20 - DESEN_A
-Salý - 12:30 - 13:20 - DESEN_A
-Salý - 13:30 - 14:20 - DESEN_A
-Salý - 14:30 - 15:20 - DESEN_A
+Åžube : 1 - FÄ°LÄ°Z ÅžENLER - Toplam : 26
+SalÄ± - 08:30 - 09:20 - DESEN_A
+SalÄ± - 09:30 - 10:20 - DESEN_A
+SalÄ± - 10:30 - 11:20 - DESEN_A
+SalÄ± - 11:30 - 12:20 - DESEN_A
+SalÄ± - 12:30 - 13:20 - DESEN_A
+SalÄ± - 13:30 - 14:20 - DESEN_A
+SalÄ± - 14:30 - 15:20 - DESEN_A

@@ -1,4 +1,4 @@
-C:\Users\ugurg\Anaconda3\python.exe C:/Users/ugurg/Documents/GitHub/tobbetu-tools/lab-placement-tool/src/main.py
+C:\ProgramData\Anaconda3\python.exe C:/Users/ugur/Documents/GitHub/tobbetu_lab_placement_tool/lab-placement-tool/src/crawler.py
 Course:                                             1. SINIF 1. SINIF
 Course:                                             1. SINIF 1. SINIF
 Course:                                             2. SINIF 2. SINIF
@@ -90,20 +90,20 @@ Course:                                             BİL 576 Bilgi Erişim Siste
 Course:                                             BİL 597 Seminer
 Course:                                             BİL 597 Seminer
 Course:                                             BİL 598 Dönem Projesi
+                                        :  11%|█         | 45/413 [03:04<24:59,  4.08s/it]                                            BİL 598 Dönem Projesi
+                                         could not be crawled!
 Course:                                             BİL 598 Dönem Projesi
-                                            BİL 598 Dönem Projesi
 Course:                                             BİL 599 Tez Çalışması
-                                         could not be crawled!
 Course:                                             BİL 599 Tez Çalışması
-                                            BİL 599 Tez Çalışması
-                                         could not be crawled!
 Course:                                             BİL 697 Doktora Semineri
+                                        :  11%|█▏        | 47/413 [03:08<18:29,  3.03s/it]                                            BİL 599 Tez Çalışması
+                                         could not be crawled!
 Course:                                             BİL 697 Doktora Semineri
 Course:                                             BİL 699 Doktora Tez Çalışması
+                                        :  12%|█▏        | 48/413 [03:12<20:19,  3.34s/it]                                            BİL 699 Doktora Tez Çalışması
+                                         could not be crawled!
 Course:                                             BİL 699 Doktora Tez Çalışması
 Course:                                             BMM 203 Tıbbi Biyoloji
-                                            BİL 699 Doktora Tez Çalışması
-                                        :  12%|█▏        | 49/413 [03:18<18:04,  2.98s/it]                                                could not be crawled!
 Course:                                             BMM 203 Tıbbi Biyoloji
 Course:                                             BMM 205 Malzeme Biliminin Temelleri
 Course:                                             BMM 205 Malzeme Biliminin Temelleri
@@ -210,11 +210,11 @@ Course:                                             END 214 Olasılık ve İstat
 Course:                                             END 320 Mühendislik Ekonomisi
 Course:                                             END 320 Mühendislik Ekonomisi
 Course:                                             END 409 Üretim Bilişim Sistemleri
+                                        :  24%|██▍       | 101/413 [06:47<21:19,  4.10s/it]                                            END 409 Üretim Bilişim Sistemleri
 Course:                                             END 409 Üretim Bilişim Sistemleri
-                                            END 409 Üretim Bilişim Sistemleri
-Course:                                             END 411 Tedarik Zinciri Yönetimi
                                          could not be crawled!
 Course:                                             END 411 Tedarik Zinciri Yönetimi
+Course:                                             END 411 Tedarik Zinciri Yönetimi
 Course:                                             END 418 Proje Yönetimi
 Course:                                             END 418 Proje Yönetimi
 Course:                                             END 471 Kalite Planlama ve Kontrol
@@ -224,15 +224,15 @@ Course:                                             END 498 Serbest Araştırma 
 Course:                                             END 524 Sıralama ve Çizelgeleme
 Course:                                             END 524 Sıralama ve Çizelgeleme
 Course:                                             END 597 Seminer
-                                        :  26%|██▌       | 107/413 [07:18<21:07,  4.14s/it]                                                            END 597 Seminer
 Course:                                             END 597 Seminer
+                                            END 597 Seminer
                                          could not be crawled!
 Course:                                             END 598 Dönem Projesi
-                                        :  26%|██▌       | 108/413 [07:22<21:18,  4.19s/it]                                            END 598 Dönem Projesi
+                                        :  26%|██▌       | 108/413 [07:16<20:58,  4.13s/it]                                            END 598 Dönem Projesi
 Course:                                             END 598 Dönem Projesi
                                          could not be crawled!
 Course:                                             END 599 Yüksek Lisans Tezi
-                                        :  26%|██▋       | 109/413 [07:27<21:24,  4.23s/it]                                            END 599 Yüksek Lisans Tezi
+                                        :  26%|██▋       | 109/413 [07:20<21:03,  4.16s/it]                                            END 599 Yüksek Lisans Tezi
 Course:                                             END 599 Yüksek Lisans Tezi
                                          could not be crawled!
 Course:                                             END 697 Doktora Semineri
@@ -536,9 +536,7 @@ Course:                                             MAK 480 Isıl Tasarım
 Course:                                             MAK 490 Gaz Türbinleri
 Course:                                             MAK 490 Gaz Türbinleri
 Course:                                             MAK 499 Serbest Araştırma Dersi
-                                        :  63%|██████▎   | 260/413 [17:57<10:32,  4.13s/it]                                            MAK 499 Serbest Araştırma Dersi
 Course:                                             MAK 499 Serbest Araştırma Dersi
-                                         could not be crawled!
 Course:                                             MAK 530 Alışılmamış İmalat Yöntemleri
 Course:                                             MAK 530 Alışılmamış İmalat Yöntemleri
 Course:                                             MAK 541 İleri Makina Titreşimleri
@@ -549,32 +547,20 @@ Course:                                             MAK 597 Seminer
 Course:                                             MAK 597 Seminer
 Course:                                             MAK 599 Yüksek Lisans Tezi
 Course:                                             MAK 599 Yüksek Lisans Tezi
-                                            MAK 599 Yüksek Lisans Tezi
-                                         could not be crawled!
 Course:                                             MAK 697 Doktora Semineri
 Course:                                             MAK 697 Doktora Semineri
 Course:                                             MAK 698 İleri Araştırma Konuları
-                                        :  65%|██████▍   | 267/413 [18:24<09:07,  3.75s/it]                                            MAK 698 İleri Araştırma Konuları
 Course:                                             MAK 698 İleri Araştırma Konuları
-                                         could not be crawled!
 Course:                                             MAK 699 Doktora Tezi
 Course:                                             MAK 699 Doktora Tezi
 Course:                                             MAT 102 Matematik II
-                                        :  65%|██████▌   | 269/413 [18:30<08:23,  3.50s/it]                                            MAT 102 Matematik II
 Course:                                             MAT 102 Matematik II
-                                         could not be crawled!
 Course:                                             MAT 104 Genel Matematik II
-                                        :  65%|██████▌   | 270/413 [18:32<07:18,  3.06s/it]                                            MAT 104 Genel Matematik II
 Course:                                             MAT 104 Genel Matematik II
-                                         could not be crawled!
 Course:                                             MAT 201 Doğrusal Cebir
-                                        :  66%|██████▌   | 271/413 [18:34<06:31,  2.76s/it]                                                MAT 201 Doğrusal Cebir
 Course:                                             MAT 201 Doğrusal Cebir
-                                         could not be crawled!
 Course:                                             MAT 203 Lineer Cebir ve Diferansiyel Denklemlere Giriş
-                                        :  66%|██████▌   | 272/413 [18:36<05:59,  2.55s/it]                                            MAT 203 Lineer Cebir ve Diferansiyel Denklemlere Giriş
 Course:                                             MAT 203 Lineer Cebir ve Diferansiyel Denklemlere Giriş
-                                         could not be crawled!
 Course:                                             MAT 209 İleri Analiz I
 Course:                                             MAT 209 İleri Analiz I
 Course:                                             MAT 495 Proje Dersi I
@@ -585,16 +571,10 @@ Course:                                             MAT 555 Diferansiyel Denklem
 Course:                                             MAT 555 Diferansiyel Denklemlerde Seçme Konular
 Course:                                             MAT 597 Seminer
 Course:                                             MAT 597 Seminer
-                                            MAT 597 Seminer
-                                         could not be crawled!
 Course:                                             MAT 599 Yüksek Lisans Tezi
 Course:                                             MAT 599 Yüksek Lisans Tezi
-                                            MAT 599 Yüksek Lisans Tezi
 Course:                                             MAT 699 Doktora Tez Çalışması
-                                         could not be crawled!
-                                        :  68%|██████▊   | 279/413 [19:01<07:21,  3.30s/it]                                            MAT 699 Doktora Tez Çalışması
 Course:                                             MAT 699 Doktora Tez Çalışması
-                                         could not be crawled!
 Course:                                             MBN 201 Malzeme Bilimi I
 Course:                                             MBN 201 Malzeme Bilimi I
 Course:                                             MBN 201L Malzeme Bilimi Laboratuarı 1
@@ -612,37 +592,27 @@ Course:                                             MBN 450 Metalik Malzemeler
 Course:                                             MBN 464 Polimer Proses Teknolojileri
 Course:                                             MBN 464 Polimer Proses Teknolojileri
 Course:                                             MİM 201 Mimari Tasarım Stüdyosu III
-                                        :  70%|██████▉   | 288/413 [19:36<08:26,  4.05s/it]                                             MİM 201 Mimari Tasarım Stüdyosu III
 Course:                                             MİM 201 Mimari Tasarım Stüdyosu III
-                                         could not be crawled!
 Course:                                             MİM 202 Mimari Tasarım Stüdyosu IV
 Course:                                             MİM 202 Mimari Tasarım Stüdyosu IV
 Course:                                             MİM 205 Mimari Tasarım, Sunum ve Araştırma Yöntem ve Teknikleri III
 Course:                                             MİM 205 Mimari Tasarım, Sunum ve Araştırma Yöntem ve Teknikleri III
 Course:                                             MİM 207 Yapı Teknolojileri III
-                                        :  70%|███████   | 291/413 [19:46<07:44,  3.81s/it]                                                                                 MİM 207 Yapı Teknolojileri III
 Course:                                             MİM 207 Yapı Teknolojileri III
-                                         could not be crawled!
 Course:                                             MİM 213 Mimarlık Kültürü, Tarih ve Kuramları III
 Course:                                             MİM 213 Mimarlık Kültürü, Tarih ve Kuramları III
-                                            MİM 213 Mimarlık Kültürü, Tarih ve Kuramları III
 Course:                                             MİM 226 Kent Yürüyüşleri
-                                         could not be crawled!
 Course:                                             MİM 226 Kent Yürüyüşleri
 Course:                                             MİM 301 Mimari Tasarım Stüdyosu V
 Course:                                             MİM 301 Mimari Tasarım Stüdyosu V
 Course:                                             MİM 302 Mimari Tasarım Stüdyosu VI
-                                        :  71%|███████▏  | 295/413 [19:59<06:56,  3.53s/it]                                            MİM 302 Mimari Tasarım Stüdyosu VI
 Course:                                             MİM 302 Mimari Tasarım Stüdyosu VI
-                                         could not be crawled!
 Course:                                             MİM 318 Kent ve Mimarlık - Seçmeli
 Course:                                             MİM 318 Kent ve Mimarlık - Seçmeli
 Course:                                             MİM 321 Uluslararası Mimari Tasarım Yoğun Stüdyosu - Seçmeli
 Course:                                             MİM 321 Uluslararası Mimari Tasarım Yoğun Stüdyosu - Seçmeli
 Course:                                             MİM 401 Mimari Tasarım Stüdyosu VII
-                                        :  72%|███████▏  | 298/413 [20:11<07:32,  3.93s/it]                                                                     MİM 401 Mimari Tasarım Stüdyosu VII
 Course:                                             MİM 401 Mimari Tasarım Stüdyosu VII
-                                         could not be crawled!
 Course:                                             MİM 402 Mimari Tasarım Stüdyosu VIII
 Course:                                             MİM 402 Mimari Tasarım Stüdyosu VIII
 Course:                                             MİM 403 Mimarlık Kültürü, Tarih ve Kuramları VII
@@ -652,9 +622,7 @@ Course:                                             MİM 404 Mimarlık Kültür�
 Course:                                             MİM 405 Mimari Tasarım, Sunum ve Araştırma Yöntem ve Teknikleri VII
 Course:                                             MİM 405 Mimari Tasarım, Sunum ve Araştırma Yöntem ve Teknikleri VII
 Course:                                             MİM 406 Mimari Tasarım, Sunum ve Araştırma Yöntem ve Teknikleri VIII
-                                        :  73%|███████▎  | 303/413 [20:30<07:14,  3.95s/it]                                            MİM 406 Mimari Tasarım, Sunum ve Araştırma Yöntem ve Teknikleri VIII
 Course:                                             MİM 406 Mimari Tasarım, Sunum ve Araştırma Yöntem ve Teknikleri VIII
-                                         could not be crawled!
 Course:                                             MİM 407 Yapı Teknolojileri VII
 Course:                                             MİM 407 Yapı Teknolojileri VII
 Course:                                             MİM 408 Yapı Teknolojileri VIII
@@ -666,81 +634,51 @@ Course:                                             MİM 422 Bina Kabuğunun Per
 Course:                                             MİM 502 Architectural Theory
 Course:                                             MİM 502 Architectural Theory
 Course:                                             MİM 503 Mimari Tasarım Stüdyosu I
-                                            MİM 502 Architectural Theory
-                                         could not be crawled!
 Course:                                             MİM 503 Mimari Tasarım Stüdyosu I
 Course:                                             MİM 505 Mimari Peyzaj
-                                        :  75%|███████▌  | 310/413 [20:54<06:10,  3.60s/it]                                                        MİM 505 Mimari Peyzaj
 Course:                                             MİM 505 Mimari Peyzaj
-                                         could not be crawled!
 Course:                                             MİM 521 Sürdürülebilirlik: Çevre, Politika ve İnsan Davranışları
 Course:                                             MİM 521 Sürdürülebilirlik: Çevre, Politika ve İnsan Davranışları
-                                            MİM 521 Sürdürülebilirlik: Çevre, Politika ve İnsan Davranışları
 Course:                                             MİM 525 Mimarlıkta Görsellik Çalışmaları
-                                         could not be crawled!
 Course:                                             MİM 525 Mimarlıkta Görsellik Çalışmaları
 Course:                                             MİM 597 Seminer
-                                        :  76%|███████▌  | 313/413 [21:07<06:34,  3.94s/it]                                                                     MİM 597 Seminer
 Course:                                             MİM 597 Seminer
-                                         could not be crawled!
 Course:                                             MİM 599 Yüksek Lisans Tezi
 Course:                                             MİM 599 Yüksek Lisans Tezi
 Course:                                             MMİ 101 Mühendislik Fakültesi için ÖZel Amaçlı Mesleki İngilizce Dersi
-                                        :  76%|███████▋  | 315/413 [21:11<04:51,  2.98s/it]                                            MİM 599 Yüksek Lisans Tezi
-                                         could not be crawled!
-                                            MMİ 101 Mühendislik Fakültesi için ÖZel Amaçlı Mesleki İngilizce Dersi
 Course:                                             MMİ 101 Mühendislik Fakültesi için ÖZel Amaçlı Mesleki İngilizce Dersi
-                                         could not be crawled!
 Course:                                             MNT 597 Seminer
 Course:                                             MNT 597 Seminer
 Course:                                             MNT 598 Yüksek Lisans Projesi
 Course:                                             MNT 598 Yüksek Lisans Projesi
 Course:                                             MNT 599 Yüksek Lisans Tezi
 Course:                                             MNT 599 Yüksek Lisans Tezi
-                                            MNT 599 Yüksek Lisans Tezi
 Course:                                             MNT 697 Doktora Semineri
-                                         could not be crawled!
 Course:                                             MNT 697 Doktora Semineri
 Course:                                             MNT 699 Doktora Tezi
 Course:                                             MNT 699 Doktora Tezi
 Course:                                             OEG 101 Ortak Eğitime Giriş
-                                        :  78%|███████▊  | 321/413 [21:33<05:38,  3.68s/it]                                            OEG 101 Ortak Eğitime Giriş
 Course:                                             OEG 101 Ortak Eğitime Giriş
-                                         could not be crawled!
 Course:                                             OEG 200 Ortak Eğitim I
-                                        :  78%|███████▊  | 322/413 [21:35<04:50,  3.19s/it]                                                 OEG 200 Ortak Eğitim I
 Course:                                             OEG 200 Ortak Eğitim I
-                                         could not be crawled!
 Course:                                             OEG 300 Ortak Eğitim II
 Course:                                             OEG 300 Ortak Eğitim II
-                                            OEG 300 Ortak Eğitim II
 Course:                                             OEG 400 Ortak Eğitim III
-                                         could not be crawled!
 Course:                                             OEG 400 Ortak Eğitim III
-                                            OEG 400 Ortak Eğitim III
-                                         could not be crawled!
 Course:                                             PSİ 200 Psikolojide Eleştirel Düşünme ve Akademik Yazı
-                                        :  79%|███████▊  | 325/413 [21:42<03:34,  2.44s/it]                                            PSİ 200 Psikolojide Eleştirel Düşünme ve Akademik Yazı
 Course:                                             PSİ 200 Psikolojide Eleştirel Düşünme ve Akademik Yazı
-                                         could not be crawled!
 Course:                                             PSİ 201 Psikolojide Araştırma Yöntemleri ve İstatistik I
 Course:                                             PSİ 201 Psikolojide Araştırma Yöntemleri ve İstatistik I
 Course:                                             PSİ 260 Psikoloji için Araştırma ve Uygulama Etiği
 Course:                                             PSİ 260 Psikoloji için Araştırma ve Uygulama Etiği
-                                            PSİ 260 Psikoloji için Araştırma ve Uygulama Etiği
 Course:                                             PSİ 313 Örgütsel Davranış
-                                         could not be crawled!
 Course:                                             PSİ 313 Örgütsel Davranış
 Course:                                             PSİ 339 Film ile Zihin, Bilinç ve Duygular
 Course:                                             PSİ 339 Film ile Zihin, Bilinç ve Duygular
-                                            PSİ 339 Film ile Zihin, Bilinç ve Duygular
-                                         could not be crawled!
 Course:                                             PSİ 428 Dikkat Süreçleri
 Course:                                             PSİ 428 Dikkat Süreçleri
 Course:                                             PSİ 430 Klinik Psikoloji I
-                                        :  80%|████████  | 331/413 [22:03<04:32,  3.32s/it]                                            PSİ 430 Klinik Psikoloji I
 Course:                                             PSİ 430 Klinik Psikoloji I
-                                         could not be crawled!
 Course:                                             PSİ 447 Bilişsel- Davranışçı Terapiye Giriş
 Course:                                             PSİ 447 Bilişsel- Davranışçı Terapiye Giriş
 Course:                                             PSİ 461 Bitirme Projesi I
@@ -751,8 +689,6 @@ Course:                                             PSİ 463 Psikolojide Güncel
 Course:                                             PSİ 463 Psikolojide Güncel Konular
 Course:                                             RUS 002 Rusça II
 Course:                                             RUS 002 Rusça II
-                                            RUS 002 Rusça II
-                                         could not be crawled!
 Course:                                             RUS 003 Rusça III
 Course:                                             RUS 003 Rusça III
 Course:                                             SAT 108 Sanat Tarihi II - Seçmeli
@@ -769,20 +705,12 @@ Course:                                             STY 303 Müze ve Kültürel 
 Course:                                             STY 303 Müze ve Kültürel Miras
 Course:                                             SUİ 205 Karşılaştırılmalı Siyasi Sistemlere Giriş
 Course:                                             SUİ 205 Karşılaştırılmalı Siyasi Sistemlere Giriş
-                                            SUİ 205 Karşılaştırılmalı Siyasi Sistemlere Giriş
 Course:                                             SUİ 207 Siyaset Teorisi
-                                         could not be crawled!
-                                        :  84%|████████▎ | 345/413 [22:59<03:58,  3.51s/it]                                                                      SUİ 207 Siyaset Teorisi
 Course:                                             SUİ 207 Siyaset Teorisi
-                                         could not be crawled!
 Course:                                             SUİ 235 Türkiyenin Siyasi ve Toplumsal Yapısı
 Course:                                             SUİ 235 Türkiyenin Siyasi ve Toplumsal Yapısı
-                                            SUİ 235 Türkiyenin Siyasi ve Toplumsal Yapısı
 Course:                                             SUİ 251 Araştırma Yöntemleri
-                                         could not be crawled!
-                                        :  84%|████████▍ | 347/413 [23:03<03:02,  2.76s/it]                                                             SUİ 251 Araştırma Yöntemleri
 Course:                                             SUİ 251 Araştırma Yöntemleri
-                                         could not be crawled!
 Course:                                             SUİ 321 Siyaset Sosyolojisi
 Course:                                             SUİ 321 Siyaset Sosyolojisi
 Course:                                             SUİ 336 Milliyetçilik ve Azınlıklar
@@ -800,8 +728,6 @@ Course:                                             SUİ 443 Modern Ortadoğudak
 Course:                                             SUİ 499 Serbest Araştırmalar
 Course:                                             SUİ 499 Serbest Araştırmalar
 Course:                                             TAR 223B İslam Tarihi ve Medeniyeti I
-                                        :  86%|████████▌ | 356/413 [23:38<03:50,  4.05s/it]                                            TAR 223B İslam Tarihi ve Medeniyeti I
-                                         could not be crawled!
 Course:                                             TAR 223B İslam Tarihi ve Medeniyeti I
 Course:                                             TAR 233E Ottoman History I 
 Course:                                             TAR 233E Ottoman History I 
@@ -809,14 +735,10 @@ Course:                                             TAR 245B Osmanlı Paleografy
 Course:                                             TAR 245B Osmanlı Paleografyası I
 Course:                                             TAR 393 Bizans Tarihi
 Course:                                             TAR 393 Bizans Tarihi
-                                            TAR 393 Bizans Tarihi
 Course:                                             TAR 413 Çağdaş Türkiye Tarihi I
-                                         could not be crawled!
 Course:                                             TAR 413 Çağdaş Türkiye Tarihi I
 Course:                                             TAR 421 Çağdaş Dünya Tarihi
-                                        :  87%|████████▋ | 361/413 [23:59<03:33,  4.11s/it]                                                TAR 421 Çağdaş Dünya Tarihi
 Course:                                             TAR 421 Çağdaş Dünya Tarihi
-                                         could not be crawled!
 Course:                                             TAR 441 Arşiv ve Tarih
 Course:                                             TAR 441 Arşiv ve Tarih
 Course:                                             TAR 515 Orta Doğu’da Toplum, Kültür ve Siyaset
@@ -844,14 +766,10 @@ Course:                                             TDE 511 Türk Edebiyatında 
 Course:                                             TDE 541 Türk Dili ve Edebiyatı Yüksek Lisans Tezi
 Course:                                             TDE 541 Türk Dili ve Edebiyatı Yüksek Lisans Tezi
 Course:                                             TIP 104 Hücre Bilimleri IV: Dokudan Sisteme
-                                        :  91%|█████████ | 375/413 [24:56<02:37,  4.13s/it]                                                  TIP 104 Hücre Bilimleri IV: Dokudan Sisteme
 Course:                                             TIP 104 Hücre Bilimleri IV: Dokudan Sisteme
-                                         could not be crawled!
 Course:                                             TIP 206 Hastalıkların Biyolojik Temelleri
 Course:                                             TIP 206 Hastalıkların Biyolojik Temelleri
-                                            TIP 206 Hastalıkların Biyolojik Temelleri
 Course:                                             TIP 306 Sinir-duyu ve Kas-iskelet Hastalıklarının Patolojik Temelleri
-                                         could not be crawled!
 Course:                                             TIP 306 Sinir-duyu ve Kas-iskelet Hastalıklarının Patolojik Temelleri
 Course:                                             TIP 402 Genel Cerrahi
 Course:                                             TIP 402 Genel Cerrahi
@@ -860,9 +778,7 @@ Course:                                             TIP 404 İçHastalıkları v
 Course:                                             TIP 405 Kadın Hastalıkları ve Doğum
 Course:                                             TIP 405 Kadın Hastalıkları ve Doğum
 Course:                                             TIP 406 Adli Tıp
-                                        :  92%|█████████▏| 381/413 [25:20<02:14,  4.19s/it]                                                               TIP 406 Adli Tıp
 Course:                                             TIP 406 Adli Tıp
-                                         could not be crawled!
 Course:                                             TIP 502 Nöroloji
 Course:                                             TIP 502 Nöroloji
 Course:                                             TIP 504 Ruh Sağlığı ve Hastalıkları
@@ -874,33 +790,21 @@ Course:                                             TIP 507 Kulak Burun Boğaz H
 Course:                                             TIP 508 Deri ve Zührevi Hastalıklar
 Course:                                             TIP 508 Deri ve Zührevi Hastalıklar
 Course:                                             TIP 509 Radyoloji
-                                            TIP 508 Deri ve Zührevi Hastalıklar
-                                        :  94%|█████████▎| 387/413 [25:45<01:47,  4.12s/it]                                                           could not be crawled!
 Course:                                             TIP 509 Radyoloji
 Course:                                             TIP 510 Çocuk Cerrahisi
 Course:                                             TIP 510 Çocuk Cerrahisi
 Course:                                             TIP 511 Ortopedi
 Course:                                             TIP 511 Ortopedi
-                                            TIP 511 Ortopedi
-                                         could not be crawled!
 Course:                                             TIP 512 Fiziksel Tıp ve Rehabilitasyon
-                                        :  94%|█████████▍| 390/413 [25:55<01:20,  3.49s/it]                                            TIP 512 Fiziksel Tıp ve Rehabilitasyon
 Course:                                             TIP 512 Fiziksel Tıp ve Rehabilitasyon
-                                         could not be crawled!
 Course:                                             TIP 516 Anesteziyoloji ve Reanimasyon Stajı
-                                        :  95%|█████████▍| 391/413 [25:57<01:07,  3.06s/it]                                            TIP 516 Anesteziyoloji ve Reanimasyon Stajı
 Course:                                             TIP 516 Anesteziyoloji ve Reanimasyon Stajı
-                                         could not be crawled!
 Course:                                             TIP 603 İç Hastalıları Stajı (İntörnlük)
 Course:                                             TIP 603 İç Hastalıları Stajı (İntörnlük)
-                                            TIP 603 İç Hastalıları Stajı (İntörnlük)
-                                         could not be crawled!
 Course:                                             TIP 604 Çocuk Sağlığı ve Hastalıkları Stajı (İntörnlük)
 Course:                                             TIP 604 Çocuk Sağlığı ve Hastalıkları Stajı (İntörnlük)
 Course:                                             TIP 606 Acil Tıp Stajı (İntörnlük)
-                                        :  95%|█████████▌| 394/413 [26:05<00:57,  3.01s/it]                                                                 TIP 606 Acil Tıp Stajı (İntörnlük)
 Course:                                             TIP 606 Acil Tıp Stajı (İntörnlük)
-                                         could not be crawled!
 Course:                                             TIP 607 Seçmeli Stajı (İntörnlük)
 Course:                                             TIP 607 Seçmeli Stajı (İntörnlük)
 Course:                                             TIP 608 Seçmeli Stajı (İntörnlük)
@@ -913,13 +817,11 @@ Course:                                             TIP 611 Klinik Farmakoloji S
 Course:                                             TIP 611 Klinik Farmakoloji Stajı (İntörnlük)
 Course:                                             TSR 519 Deneyim Tasarımında Güncel Yaklaşımlar
 Course:                                             TSR 519 Deneyim Tasarımında Güncel Yaklaşımlar
-                                            TSR 519 Deneyim Tasarımında Güncel Yaklaşımlar
-                                         could not be crawled!
 Course:                                             TSR 592 Seminer
 Course:                                             TSR 592 Seminer
 Course:                                             TSR 598 Yüksek Lisans Tezi
-                                        :  97%|█████████▋| 402/413 [26:36<00:39,  3.62s/it]                                            TSR 598 Yüksek Lisans Tezi
 Course:                                             TSR 598 Yüksek Lisans Tezi
+                                            TSR 598 Yüksek Lisans Tezi
                                          could not be crawled!
 Course:                                             UGİ 221 Uluslararası Hukuka Giriş
 Course:                                             UGİ 221 Uluslararası Hukuka Giriş
@@ -931,9 +833,7 @@ Course:                                             UGİ 292R Rusçaya Giriş
 Course:                                             UGİ 292R Rusçaya Giriş
 Course:                                             UGİ 315 Girişimcilik ve Liderlik
 Course:                                             UGİ 315 Girişimcilik ve Liderlik
-                                            UGİ 315 Girişimcilik ve Liderlik
 Course:                                             ULU 515 Uluslararası İlişkilerde Enerji Politikaları
-                                         could not be crawled!
 Course:                                             ULU 515 Uluslararası İlişkilerde Enerji Politikaları
 Course:                                             ULU 527 Dünya Politikalarında Güncel Konular Semineri
 Course:                                             ULU 527 Dünya Politikalarında Güncel Konular Semineri
@@ -943,6 +843,6 @@ Course:                                             ULU 598 Dönem Projesi
 Course:                                             ULU 598 Dönem Projesi
 Course:                                             ULU 599 Yüksek Lisans Tezi
 Course:                                             ULU 599 Yüksek Lisans Tezi
-                                        : 100%|██████████| 413/413 [27:18<00:00,  4.00s/it]
+                                        : 100%|██████████| 413/413 [28:04<00:00,  4.06s/it]
 
 Process finished with exit code 0

@@ -1,5 +1,5 @@
-Þube : 1 - Ayþegül ALTIN KAYHAN - Toplam : 3
-Salý - 18:30 - 19:20 - X001
-Perþembe - 18:30 - 19:20 - X003
-Salý - 19:30 - 20:20 - X001
-Perþembe - 19:30 - 20:20 - X001
+Åžube : 1 - AyÅŸegÃ¼l ALTIN KAYHAN - Toplam : 3
+SalÄ± - 18:30 - 19:20 - X001
+PerÅŸembe - 18:30 - 19:20 - X003
+SalÄ± - 19:30 - 20:20 - X001
+PerÅŸembe - 19:30 - 20:20 - X001

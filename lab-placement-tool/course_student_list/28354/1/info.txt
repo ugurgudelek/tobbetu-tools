@@ -1,6 +1,6 @@
-Şube : 1 - Başar BÜYÜKKUŞOĞLU - Toplam : 13
-Perşembe - 13:30 - 14:20 - DESEN_A
-Perşembe - 14:30 - 15:20 - DESEN_A
-Perşembe - 15:30 - 16:20 - DESEN_A
-Perşembe - 16:30 - 17:20 - DESEN_A
-Perşembe - 17:30 - 18:20 - DESEN_A
+Åube : 1 - BaÅŸar BÃœYÃœKKUÅOÄLU - Toplam : 13
+PerÅŸembe - 13:30 - 14:20 - DESEN_A
+PerÅŸembe - 14:30 - 15:20 - DESEN_A
+PerÅŸembe - 15:30 - 16:20 - DESEN_A
+PerÅŸembe - 16:30 - 17:20 - DESEN_A
+PerÅŸembe - 17:30 - 18:20 - DESEN_A

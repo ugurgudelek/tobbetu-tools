@@ -1,1 +1,6 @@
-�ube : 2 - SER�YYE TAMER - Toplam : 8
+Şube : 2 - SERİYYE TAMER - Toplam : 8
+Çarşamba - 10:30 - 11:20 - Y408
+Çarşamba - 11:30 - 12:20 - Y408
+Cumartesi - 11:30 - 12:20 - Y408
+Cumartesi - 12:30 - 13:20 - Y408
+Cumartesi - 13:30 - 14:20 - Y408
