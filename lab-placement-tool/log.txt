@@ -1,0 +1,948 @@
+C:\Users\ugurg\Anaconda3\python.exe C:/Users/ugurg/Documents/GitHub/tobbetu-tools/lab-placement-tool/src/main.py
+Course:                                             1. SINIF 1. SINIF
+Course:                                             1. SINIF 1. SINIF
+Course:                                             2. SINIF 2. SINIF
+Course:                                             2. SINIF 2. SINIF
+Course:                                             3. SINIF 3. SINIF
+Course:                                             3. SINIF 3. SINIF
+Course:                                             4. SINIF 4. SINIF
+Course:                                             4. SINIF 4. SINIF
+Course:                                             5. SINIF 5. SINIF
+Course:                                             5. SINIF 5. SINIF
+Course:                                             6. SINIF 6. SINIF
+Course:                                             6. SINIF 6. SINIF
+Course:                                             AİT 201 Atatürk İlkeleri ve İnkılap Tarihi I
+Course:                                             AİT 201 Atatürk İlkeleri ve İnkılap Tarihi I
+Course:                                             ALM 001Y Almanca I( Yoğunlaştırılmış İkinci Yabancı Dil Programı)
+Course:                                             ALM 001Y Almanca I( Yoğunlaştırılmış İkinci Yabancı Dil Programı)
+Course:                                             ALM 002 Almanca II
+Course:                                             ALM 002 Almanca II
+Course:                                             ALM 002Y Almanca II( Yoğunlaştırılmış İkinci Yabancı Dil Programı)
+Course:                                             ALM 002Y Almanca II( Yoğunlaştırılmış İkinci Yabancı Dil Programı)
+Course:                                             ALM 003 Almanca III
+Course:                                             ALM 003 Almanca III
+Course:                                             ALM 003Y Almanca III( Yoğunlaştırılmış İkinci Yabancı Dil Programı)
+Course:                                             ALM 003Y Almanca III( Yoğunlaştırılmış İkinci Yabancı Dil Programı)
+Course:                                             ALM 004 Almanca IV
+Course:                                             ALM 004 Almanca IV
+Course:                                             ALM 004Y Almanca IV( Yoğunlaştırılmış İkinci Yabancı Dil Programı)
+Course:                                             ALM 004Y Almanca IV( Yoğunlaştırılmış İkinci Yabancı Dil Programı)
+Course:                                             ARP 002 Arapça II
+Course:                                             ARP 002 Arapça II
+Course:                                             ARP 003 Arapça III
+Course:                                             ARP 003 Arapça III
+Course:                                             ARP 004 Arapça IV
+Course:                                             ARP 004 Arapça IV
+Course:                                             BİL 013 Veri Yapıları ve Veri Yönetimi
+Course:                                             BİL 013 Veri Yapıları ve Veri Yönetimi
+Course:                                             BİL 031 Algoritma Analizi
+Course:                                             BİL 031 Algoritma Analizi
+Course:                                             BİL 051 Veri İletişimi ve Bilgisayar Ağları
+Course:                                             BİL 051 Veri İletişimi ve Bilgisayar Ağları
+Course:                                             BİL 062 İşletim Sistemleri
+Course:                                             BİL 062 İşletim Sistemleri
+Course:                                             BİL 071 Veritabanı Sistemleri
+Course:                                             BİL 071 Veritabanı Sistemleri
+Course:                                             BİL 106 Veritabanı Yönetimi
+Course:                                             BİL 106 Veritabanı Yönetimi
+Course:                                             BİL 121 Bilişim Teknolojilerine Giriş 
+Course:                                             BİL 121 Bilişim Teknolojilerine Giriş 
+Course:                                             BİL 133 Kombinatorik ve Çizge Kuramı
+Course:                                             BİL 133 Kombinatorik ve Çizge Kuramı
+Course:                                             BİL 141 Bilgisayar Programlama I
+Course:                                             BİL 141 Bilgisayar Programlama I
+Course:                                             BİL 142 Bilgisayar Programlama II
+Course:                                             BİL 142 Bilgisayar Programlama II
+Course:                                             BİL 211 Bilgisayar Programlama II
+Course:                                             BİL 211 Bilgisayar Programlama II
+Course:                                             BİL 212 Veri Yapıları
+Course:                                             BİL 212 Veri Yapıları
+Course:                                             BİL 245 Doğrusal Cebir ve Uygulamaları
+Course:                                             BİL 245 Doğrusal Cebir ve Uygulamaları
+Course:                                             BİL 264 Mantıksal Devre Tasarımı
+Course:                                             BİL 264 Mantıksal Devre Tasarımı
+Course:                                             BİL 264L Mantıksal Devre Tasarımı Laboratuvarı
+Course:                                             BİL 264L Mantıksal Devre Tasarımı Laboratuvarı
+Course:                                             BİL 372 Veritabanı Sistemleri
+Course:                                             BİL 372 Veritabanı Sistemleri
+Course:                                             BİL 422 İnsan Bilgisayar Etkileşimi
+Course:                                             BİL 422 İnsan Bilgisayar Etkileşimi
+Course:                                             BİL 452 Veri İletişimi ve Bilgisayar Ağları
+Course:                                             BİL 452 Veri İletişimi ve Bilgisayar Ağları
+Course:                                             BİL 461 İşletim Sistemleri
+Course:                                             BİL 461 İşletim Sistemleri
+Course:                                             BİL 476 Veri Madenciligi
+Course:                                             BİL 476 Veri Madenciligi
+Course:                                             BİL 495 Yenilikçi Bilgisayar Uygulamaları
+Course:                                             BİL 495 Yenilikçi Bilgisayar Uygulamaları
+Course:                                             BİL 520 Siber Güvenliğe Giriş
+Course:                                             BİL 520 Siber Güvenliğe Giriş
+Course:                                             BİL 521 Zararlı Yazılım Analizi ve Tersine Mühendislik
+Course:                                             BİL 521 Zararlı Yazılım Analizi ve Tersine Mühendislik
+Course:                                             BİL 527 Ağ Savunma Sistemleri
+Course:                                             BİL 527 Ağ Savunma Sistemleri
+Course:                                             BİL 535 Hesaplamalı Geometri
+Course:                                             BİL 535 Hesaplamalı Geometri
+Course:                                             BİL 573 Veri Madenciliği
+Course:                                             BİL 573 Veri Madenciliği
+Course:                                             BİL 576 Bilgi Erişim Sistemleri
+Course:                                             BİL 576 Bilgi Erişim Sistemleri
+Course:                                             BİL 597 Seminer
+Course:                                             BİL 597 Seminer
+Course:                                             BİL 598 Dönem Projesi
+Course:                                             BİL 598 Dönem Projesi
+                                            BİL 598 Dönem Projesi
+Course:                                             BİL 599 Tez Çalışması
+                                         could not be crawled!
+Course:                                             BİL 599 Tez Çalışması
+                                            BİL 599 Tez Çalışması
+                                         could not be crawled!
+Course:                                             BİL 697 Doktora Semineri
+Course:                                             BİL 697 Doktora Semineri
+Course:                                             BİL 699 Doktora Tez Çalışması
+Course:                                             BİL 699 Doktora Tez Çalışması
+Course:                                             BMM 203 Tıbbi Biyoloji
+                                            BİL 699 Doktora Tez Çalışması
+                                        :  12%|█▏        | 49/413 [03:18<18:04,  2.98s/it]                                                could not be crawled!
+Course:                                             BMM 203 Tıbbi Biyoloji
+Course:                                             BMM 205 Malzeme Biliminin Temelleri
+Course:                                             BMM 205 Malzeme Biliminin Temelleri
+Course:                                             BMM 205L Malzeme Biliminin Temelleri Laboratuvarı
+Course:                                             BMM 205L Malzeme Biliminin Temelleri Laboratuvarı
+Course:                                             BMM 410 Biyomedikal Elektronik
+Course:                                             BMM 410 Biyomedikal Elektronik
+Course:                                             BMM 411 Biyomedikal Görüntü İşleme
+Course:                                             BMM 411 Biyomedikal Görüntü İşleme
+Course:                                             BMM 450 Biyoakışkanlar Mekaniği
+Course:                                             BMM 450 Biyoakışkanlar Mekaniği
+Course:                                             BMM 491 Tıbbi Görüntüleme Sistemleri
+Course:                                             BMM 491 Tıbbi Görüntüleme Sistemleri
+Course:                                             BMM 580 İleri Biyokimya
+Course:                                             BMM 580 İleri Biyokimya
+Course:                                             BMM 581 İleri Moleküler Biyoloji ve Genetik
+Course:                                             BMM 581 İleri Moleküler Biyoloji ve Genetik
+Course:                                             BMM 585 Proses Analiz
+Course:                                             BMM 585 Proses Analiz
+Course:                                             BMM 597 Seminer
+Course:                                             BMM 597 Seminer
+Course:                                             BMM 599 Yüksek Lisans Tezi
+Course:                                             BMM 599 Yüksek Lisans Tezi
+Course:                                             BMM 697 Doktora Semineri
+Course:                                             BMM 697 Doktora Semineri
+Course:                                             BMM 699 Doktora Tezi
+Course:                                             BMM 699 Doktora Tezi
+Course:                                             DYE 700 Doktora Yeterlik Eğitimi
+Course:                                             DYE 700 Doktora Yeterlik Eğitimi
+Course:                                             ELE 061 Haberleşme Sİstemleri I
+Course:                                             ELE 061 Haberleşme Sİstemleri I
+Course:                                             ELE 201 Devre Analizi I
+Course:                                             ELE 201 Devre Analizi I
+Course:                                             ELE 201L Devre Analizi I Laboratuvarı
+Course:                                             ELE 201L Devre Analizi I Laboratuvarı
+Course:                                             ELE 273 Elektrik Mühendisleri için Olasılık Teorisi
+Course:                                             ELE 273 Elektrik Mühendisleri için Olasılık Teorisi
+Course:                                             ELE 297 Elektrik ve Elektroniğin Temelleri
+Course:                                             ELE 297 Elektrik ve Elektroniğin Temelleri
+Course:                                             ELE 301 Kontrol Sistemleri I
+Course:                                             ELE 301 Kontrol Sistemleri I
+Course:                                             ELE 301L Kontrol Sistemleri I Laboratuvarı
+Course:                                             ELE 301L Kontrol Sistemleri I Laboratuvarı
+Course:                                             ELE 361 Haberleşme Sistemlerine Giriş
+Course:                                             ELE 361 Haberleşme Sistemlerine Giriş
+Course:                                             ELE 361L Haberleşme Sistemlerine Giriş  Laboratuvarı
+Course:                                             ELE 361L Haberleşme Sistemlerine Giriş  Laboratuvarı
+Course:                                             ELE 371 Sinyaller ve Sistemler
+Course:                                             ELE 371 Sinyaller ve Sistemler
+Course:                                             ELE 409 Mühendisler için Endüstriyel Yönetim
+Course:                                             ELE 409 Mühendisler için Endüstriyel Yönetim
+Course:                                             ELE 461 Kablosuz Haberleşme
+Course:                                             ELE 461 Kablosuz Haberleşme
+Course:                                             ELE 473 Sayısal Görüntü İşleme
+Course:                                             ELE 473 Sayısal Görüntü İşleme
+Course:                                             ELE 485 Enerji Dağıtımı I
+Course:                                             ELE 485 Enerji Dağıtımı I
+Course:                                             ELE 487 Enerji Hatları
+Course:                                             ELE 487 Enerji Hatları
+Course:                                             ELE 495 Bitirme Tasarım Projesi
+Course:                                             ELE 495 Bitirme Tasarım Projesi
+Course:                                             ELE 498 Serbest Araştırma Dersi I
+Course:                                             ELE 498 Serbest Araştırma Dersi I
+Course:                                             ELE 499 Serbest Araştırma Dersi II
+Course:                                             ELE 499 Serbest Araştırma Dersi II
+Course:                                             ELE 506 Gürbüz Kontrol
+Course:                                             ELE 506 Gürbüz Kontrol
+Course:                                             ELE 519 Gömülü Sistemler
+Course:                                             ELE 519 Gömülü Sistemler
+Course:                                             ELE 532 Antenler ve Yayılım
+Course:                                             ELE 532 Antenler ve Yayılım
+Course:                                             ELE 561 Kablosuz Haberleşme
+Course:                                             ELE 561 Kablosuz Haberleşme
+Course:                                             ELE 565 Radar Sinyal İşlemenin Temelleri 
+Course:                                             ELE 565 Radar Sinyal İşlemenin Temelleri 
+Course:                                             ELE 572 Enformasyon Teorisi
+Course:                                             ELE 572 Enformasyon Teorisi
+Course:                                             ELE 573 Sayısal Görüntü İşleme
+Course:                                             ELE 573 Sayısal Görüntü İşleme
+Course:                                             ELE 597 Seminer
+Course:                                             ELE 597 Seminer
+Course:                                             ELE 598 Dönem Projesi
+Course:                                             ELE 598 Dönem Projesi
+Course:                                             ELE 599 Yüksek Lisans Tezi
+Course:                                             ELE 599 Yüksek Lisans Tezi
+Course:                                             ELE 697 Doktora Semineri
+Course:                                             ELE 697 Doktora Semineri
+Course:                                             ELE 699 Doktora Tezi
+Course:                                             ELE 699 Doktora Tezi
+Course:                                             END 009 Üretim Bilişim Sistemleri
+Course:                                             END 009 Üretim Bilişim Sistemleri
+                                            END 009 Üretim Bilişim Sistemleri
+                                         could not be crawled!
+Course:                                             END 014 Olasılık ve İstatistik
+Course:                                             END 014 Olasılık ve İstatistik
+Course:                                             END 020 Mühendislik Ekonomisi
+Course:                                             END 020 Mühendislik Ekonomisi
+Course:                                             END 071 Kalite Planlama ve Kontrol
+Course:                                             END 071 Kalite Planlama ve Kontrol
+Course:                                             END 213 Olasılık ve İstatistik I
+Course:                                             END 213 Olasılık ve İstatistik I
+Course:                                             END 214 Olasılık ve İstatistik II
+Course:                                             END 214 Olasılık ve İstatistik II
+Course:                                             END 320 Mühendislik Ekonomisi
+Course:                                             END 320 Mühendislik Ekonomisi
+Course:                                             END 409 Üretim Bilişim Sistemleri
+Course:                                             END 409 Üretim Bilişim Sistemleri
+                                            END 409 Üretim Bilişim Sistemleri
+Course:                                             END 411 Tedarik Zinciri Yönetimi
+                                         could not be crawled!
+Course:                                             END 411 Tedarik Zinciri Yönetimi
+Course:                                             END 418 Proje Yönetimi
+Course:                                             END 418 Proje Yönetimi
+Course:                                             END 471 Kalite Planlama ve Kontrol
+Course:                                             END 471 Kalite Planlama ve Kontrol
+Course:                                             END 498 Serbest Araştırma Dersi
+Course:                                             END 498 Serbest Araştırma Dersi
+Course:                                             END 524 Sıralama ve Çizelgeleme
+Course:                                             END 524 Sıralama ve Çizelgeleme
+Course:                                             END 597 Seminer
+                                        :  26%|██▌       | 107/413 [07:18<21:07,  4.14s/it]                                                            END 597 Seminer
+Course:                                             END 597 Seminer
+                                         could not be crawled!
+Course:                                             END 598 Dönem Projesi
+                                        :  26%|██▌       | 108/413 [07:22<21:18,  4.19s/it]                                            END 598 Dönem Projesi
+Course:                                             END 598 Dönem Projesi
+                                         could not be crawled!
+Course:                                             END 599 Yüksek Lisans Tezi
+                                        :  26%|██▋       | 109/413 [07:27<21:24,  4.23s/it]                                            END 599 Yüksek Lisans Tezi
+Course:                                             END 599 Yüksek Lisans Tezi
+                                         could not be crawled!
+Course:                                             END 697 Doktora Semineri
+Course:                                             END 697 Doktora Semineri
+Course:                                             END 699 Doktora Tezi
+Course:                                             END 699 Doktora Tezi
+Course:                                             EÜT 106 Ürün Görselleştirme II
+Course:                                             EÜT 106 Ürün Görselleştirme II
+Course:                                             EÜT 203 Maket Yapımı
+Course:                                             EÜT 203 Maket Yapımı
+Course:                                             EÜT 221A Endüstri Ürünleri Tasarımı Stüdyosu I
+Course:                                             EÜT 221A Endüstri Ürünleri Tasarımı Stüdyosu I
+Course:                                             EÜT 249 Malzeme ve Üretim I
+Course:                                             EÜT 249 Malzeme ve Üretim I
+Course:                                             EÜT 319 Endüstriyel Tasarım Tarihi II
+Course:                                             EÜT 319 Endüstriyel Tasarım Tarihi II
+Course:                                             EÜT 342 İleri Malzemeler
+Course:                                             EÜT 342 İleri Malzemeler
+Course:                                             EÜT 398 Destekleyici Teknolojiler
+Course:                                             EÜT 398 Destekleyici Teknolojiler
+Course:                                             EÜT 405 Bilgisayar Destekli Üretim
+Course:                                             EÜT 405 Bilgisayar Destekli Üretim
+Course:                                             EÜT 421A Endüstri Ürünleri Tasarımı Stüdyosu V
+Course:                                             EÜT 421A Endüstri Ürünleri Tasarımı Stüdyosu V
+Course:                                             FBE 600 Bilimsel Araştırma Teknikleri ve Yayın Etiği
+Course:                                             FBE 600 Bilimsel Araştırma Teknikleri ve Yayın Etiği
+Course:                                             FİZ 102 Fizik II
+Course:                                             FİZ 102 Fizik II
+Course:                                             FİZ 102L Fizik II Laboratuvarı
+Course:                                             FİZ 102L Fizik II Laboratuvarı
+Course:                                             FRA 002 Fransızca II
+Course:                                             FRA 002 Fransızca II
+Course:                                             FRA 003 Fransızca III
+Course:                                             FRA 003 Fransızca III
+Course:                                             FRA 004 Fransızca IV
+Course:                                             FRA 004 Fransızca IV
+Course:                                             GİT 201 Görsel İletişim Tasarım Stüdyosu I
+Course:                                             GİT 201 Görsel İletişim Tasarım Stüdyosu I
+Course:                                             GİT 202 Görsel İletişim Tasarım Stüdyosu II
+Course:                                             GİT 202 Görsel İletişim Tasarım Stüdyosu II
+Course:                                             GİT 203 İllüstrasyon
+Course:                                             GİT 203 İllüstrasyon
+Course:                                             GİT 217 Bilgisayar Destekli Tasarım I
+Course:                                             GİT 217 Bilgisayar Destekli Tasarım I
+Course:                                             GİT 313 İleri Tipografi
+Course:                                             GİT 313 İleri Tipografi
+Course:                                             GİT 406 İletişim Psikolojisi
+Course:                                             GİT 406 İletişim Psikolojisi
+Course:                                             GİT 411 Web Tasarım I
+Course:                                             GİT 411 Web Tasarım I
+Course:                                             GİT 413 Vektörel İllüstrasyon
+Course:                                             GİT 413 Vektörel İllüstrasyon
+Course:                                             GMİ 101 Güzel Sanatlar, Tasarım ve Mimarlık Fakültesi için Özel Amaçlı Mesleki İngilizce Dersi
+Course:                                             GMİ 101 Güzel Sanatlar, Tasarım ve Mimarlık Fakültesi için Özel Amaçlı Mesleki İngilizce Dersi
+Course:                                             GRT 301 Grafik Tasarımı I
+Course:                                             GRT 301 Grafik Tasarımı I
+Course:                                             GRT 302 Grafik Tasarım II
+Course:                                             GRT 302 Grafik Tasarım II
+Course:                                             GRT 405 Reklam Tasarımı
+Course:                                             GRT 405 Reklam Tasarımı
+Course:                                             GRT 406 Proje II
+Course:                                             GRT 406 Proje II
+Course:                                             GRT 407 Hareketli Grafik Tasarım (Jenerik Tasarımı)
+Course:                                             GRT 407 Hareketli Grafik Tasarım (Jenerik Tasarımı)
+Course:                                             GRT 409 Proje I
+Course:                                             GRT 409 Proje I
+Course:                                             GUC 506 Terörizm: Kavramlar, Yaklaşımlar, Ülke Pratikleri
+Course:                                             GUC 506 Terörizm: Kavramlar, Yaklaşımlar, Ülke Pratikleri
+Course:                                             GUC 549 Enerji Jeopolitiği
+Course:                                             GUC 549 Enerji Jeopolitiği
+Course:                                             GUC 598 Dönem Projesi
+Course:                                             GUC 598 Dönem Projesi
+Course:                                             GUC 599 Yüksek Lisans Tezi
+Course:                                             GUC 599 Yüksek Lisans Tezi
+Course:                                             HUK 109 Legal English I
+Course:                                             HUK 109 Legal English I
+Course:                                             HUK 110 Legal English II
+Course:                                             HUK 110 Legal English II
+Course:                                             HUK 201 Borçlar Hukuku I
+Course:                                             HUK 201 Borçlar Hukuku I
+Course:                                             HUK 203 Ceza Hukuku I
+Course:                                             HUK 203 Ceza Hukuku I
+Course:                                             HUK 205 İdare Hukuku I
+Course:                                             HUK 205 İdare Hukuku I
+Course:                                             HUK 213 Legal English III
+Course:                                             HUK 213 Legal English III
+Course:                                             HUK 215 International Law I
+Course:                                             HUK 215 International Law I
+Course:                                             HUK 217 Sociology of Law
+Course:                                             HUK 217 Sociology of Law
+Course:                                             HUK 331 Banka Hukuku
+Course:                                             HUK 331 Banka Hukuku
+Course:                                             HUK 335 Tüketici Hukuku
+Course:                                             HUK 335 Tüketici Hukuku
+Course:                                             HUK 350 Communication and Negotiation Skills for Lawyers
+Course:                                             HUK 350 Communication and Negotiation Skills for Lawyers
+Course:                                             HUK 354 Avukatlık Hukuku
+Course:                                             HUK 354 Avukatlık Hukuku
+Course:                                             HUK 401 Kıymetli Evrak Hukuku
+Course:                                             HUK 401 Kıymetli Evrak Hukuku
+Course:                                             HUK 403 Ceza Usul Hukuku I
+Course:                                             HUK 403 Ceza Usul Hukuku I
+Course:                                             HUK 405 İcra Hukuku
+Course:                                             HUK 405 İcra Hukuku
+Course:                                             HUK 407 İş Hukuku
+Course:                                             HUK 407 İş Hukuku
+Course:                                             HUK 411 Vergi Hukuku II
+Course:                                             HUK 411 Vergi Hukuku II
+Course:                                             HUK 421 Rekabet Hukuku
+Course:                                             HUK 421 Rekabet Hukuku
+Course:                                             HUK 433 İdari Yaptırımlar Hukuku
+Course:                                             HUK 433 İdari Yaptırımlar Hukuku
+Course:                                             HZR 002A Arapça Hazırlık II
+Course:                                             HZR 002A Arapça Hazırlık II
+Course:                                             HZR 002R Rusça Hazırlık II
+Course:                                             HZR 002R Rusça Hazırlık II
+Course:                                             ITA 002 İtalyanca II
+Course:                                             ITA 002 İtalyanca II
+Course:                                             ITA 003 İtalyanca III
+Course:                                             ITA 003 İtalyanca III
+Course:                                             İÇT 201A Mekan Tasarımı Stüdyosu I
+Course:                                             İÇT 201A Mekan Tasarımı Stüdyosu I
+Course:                                             İÇT 202A Mekan Tasarımı Stüdyosu II
+Course:                                             İÇT 202A Mekan Tasarımı Stüdyosu II
+Course:                                             İÇT 205A Yapı ve Malzeme
+Course:                                             İÇT 205A Yapı ve Malzeme
+Course:                                             İÇT 207A Mimari Sunum Teknikleri
+Course:                                             İÇT 207A Mimari Sunum Teknikleri
+Course:                                             İÇT 301A Mekan Tasarımı Stüdyosu III
+Course:                                             İÇT 301A Mekan Tasarımı Stüdyosu III
+Course:                                             İÇT 302A Mekan Tasarımı Stüdyosu IV
+Course:                                             İÇT 302A Mekan Tasarımı Stüdyosu IV
+Course:                                             İÇT 317 Röleve ve Restorasyon - Seçmeli
+Course:                                             İÇT 317 Röleve ve Restorasyon - Seçmeli
+Course:                                             İÇT 318 Mekan Analizi - Seçmeli
+Course:                                             İÇT 318 Mekan Analizi - Seçmeli
+Course:                                             İÇT 401A Mekan Tasarımı Stüdyosu V
+Course:                                             İÇT 401A Mekan Tasarımı Stüdyosu V
+Course:                                             İÇT 402A Mekan Tasarımı Stüdyosu VI
+Course:                                             İÇT 402A Mekan Tasarımı Stüdyosu VI
+Course:                                             İÇT 403 Tasarım Yönetimi
+Course:                                             İÇT 403 Tasarım Yönetimi
+Course:                                             İÇT 404 Kesiş, Metraj ve Meslek Bilgisi
+Course:                                             İÇT 404 Kesiş, Metraj ve Meslek Bilgisi
+Course:                                             İÇT 407 Özelleşmiş Tasarım Stüdyosu I - Seçmeli
+Course:                                             İÇT 407 Özelleşmiş Tasarım Stüdyosu I - Seçmeli
+Course:                                             İDE 200A Eleştirel Düşünme ve Akademik Yazı
+Course:                                             İDE 200A Eleştirel Düşünme ve Akademik Yazı
+Course:                                             İDE 211 Ortaçağ İngiliz Edebiyatı
+Course:                                             İDE 211 Ortaçağ İngiliz Edebiyatı
+Course:                                             İDE 212 Rönesans İngiliz Şiiri ve Düzyazısı
+Course:                                             İDE 212 Rönesans İngiliz Şiiri ve Düzyazısı
+Course:                                             İDE 222 Dünya Edebiyatından Seçmeler
+Course:                                             İDE 222 Dünya Edebiyatından Seçmeler
+Course:                                             İDE 316 Çağdaş Britanya Tiyatrosu (1960-günümüz)
+Course:                                             İDE 316 Çağdaş Britanya Tiyatrosu (1960-günümüz)
+Course:                                             İDE 317 Modern Britanya Romanı
+Course:                                             İDE 317 Modern Britanya Romanı
+Course:                                             İDE 401 Edebiyat Kuramı ve Eleştirisi I
+Course:                                             İDE 401 Edebiyat Kuramı ve Eleştirisi I
+Course:                                             İDE 427 Çeviri II
+Course:                                             İDE 427 Çeviri II
+Course:                                             İKT 105 Ekonomiye Giriş
+Course:                                             İKT 105 Ekonomiye Giriş
+Course:                                             İKT 213 Mikroekonomi Teori I
+Course:                                             İKT 213 Mikroekonomi Teori I
+Course:                                             İKT 233 Makroekonomi Teori I
+Course:                                             İKT 233 Makroekonomi Teori I
+Course:                                             İKT 253 İstatistik
+Course:                                             İKT 253 İstatistik
+Course:                                             İKT 261 İktisatçılar ve İşletmeciler için Matematik I
+Course:                                             İKT 261 İktisatçılar ve İşletmeciler için Matematik I
+Course:                                             İKT 415 Oyun Kuramı - Seçmeli
+Course:                                             İKT 415 Oyun Kuramı - Seçmeli
+Course:                                             İKT 427 Sosyal ve Ekonomik Ağlar
+Course:                                             İKT 427 Sosyal ve Ekonomik Ağlar
+Course:                                             İKT 435 Türkiye Ekonomisinden Güncel Konular - Seçmeli
+Course:                                             İKT 435 Türkiye Ekonomisinden Güncel Konular - Seçmeli
+Course:                                             İKT 437 Finansal Kurumlar - Seçmeli
+Course:                                             İKT 437 Finansal Kurumlar - Seçmeli
+Course:                                             İKT 442 Makroekonomik Göstergelerin Yorumlanması
+Course:                                             İKT 442 Makroekonomik Göstergelerin Yorumlanması
+Course:                                             İKT 599 Yüksek Lisans Tezi
+Course:                                             İKT 599 Yüksek Lisans Tezi
+Course:                                             İMİ 101 İktisadi ve İdari Bilimler Fakültesi için Özel Amaçlı Mesleki İngilizce Dersi
+Course:                                             İMİ 101 İktisadi ve İdari Bilimler Fakültesi için Özel Amaçlı Mesleki İngilizce Dersi
+Course:                                             İNG 001 İngilizce I
+Course:                                             İNG 001 İngilizce I
+Course:                                             İNG 001U İngilizce I
+Course:                                             İNG 001U İngilizce I
+Course:                                             İNG 002 İngilizce II
+Course:                                             İNG 002 İngilizce II
+Course:                                             İNG 002U İngilizce II
+Course:                                             İNG 002U İngilizce II
+Course:                                             İNG 003 İngilizce Yazma Becerileri
+Course:                                             İNG 003 İngilizce Yazma Becerileri
+Course:                                             İNG 003U İngilizce III
+Course:                                             İNG 003U İngilizce III
+Course:                                             İNG 004 İngilizce Sunum Teknikleri
+Course:                                             İNG 004 İngilizce Sunum Teknikleri
+Course:                                             İNG 004U İngilizce IV
+Course:                                             İNG 004U İngilizce IV
+Course:                                             İNG 101U İngilizce I
+Course:                                             İNG 101U İngilizce I
+Course:                                             İNG 102U İngilizce II
+Course:                                             İNG 102U İngilizce II
+Course:                                             İNG 201U İngilizce III
+Course:                                             İNG 201U İngilizce III
+Course:                                             İNG 202U İngilizce IV
+Course:                                             İNG 202U İngilizce IV
+Course:                                             İSP 001Y İspanyolca I(Yoğunlaştırılmış İkinci Yabancı Dil Programı)
+Course:                                             İSP 001Y İspanyolca I(Yoğunlaştırılmış İkinci Yabancı Dil Programı)
+Course:                                             İSP 002 İspanyolca II
+Course:                                             İSP 002 İspanyolca II
+Course:                                             İSP 002Y İspanyolca II(Yoğunlaştırılmış İkinci Yabancı Dil Programı)
+Course:                                             İSP 002Y İspanyolca II(Yoğunlaştırılmış İkinci Yabancı Dil Programı)
+Course:                                             İSP 003 İspanyolca III
+Course:                                             İSP 003 İspanyolca III
+Course:                                             İSP 003Y İspanyolca III(Yoğunlaştırılmış İkinci Yabancı Dil Programı)
+Course:                                             İSP 003Y İspanyolca III(Yoğunlaştırılmış İkinci Yabancı Dil Programı)
+Course:                                             İSP 004 İspanyolca IV
+Course:                                             İSP 004 İspanyolca IV
+Course:                                             İSP 004Y İspanyolca IV(Yoğunlaştırılmış İkinci Yabancı Dil Programı)
+Course:                                             İSP 004Y İspanyolca IV(Yoğunlaştırılmış İkinci Yabancı Dil Programı)
+Course:                                             İŞL 212 İşletmecilik Bilgisi
+Course:                                             İŞL 212 İşletmecilik Bilgisi
+Course:                                             İŞL 233 Pazarlama Prensipleri
+Course:                                             İŞL 233 Pazarlama Prensipleri
+Course:                                             İŞL 255 Genel Muhasebe
+Course:                                             İŞL 255 Genel Muhasebe
+Course:                                             İŞL 312 İnsan Kaynakları Yönetimi
+Course:                                             İŞL 312 İnsan Kaynakları Yönetimi
+Course:                                             İŞL 405 Uluslararası İşletme Yönetimi
+Course:                                             İŞL 405 Uluslararası İşletme Yönetimi
+Course:                                             İŞL 432 Uluslararası Pazarlama
+Course:                                             İŞL 432 Uluslararası Pazarlama
+Course:                                             İŞL 439 Dijital marka Yönetimi ve Sosyal Medya
+Course:                                             İŞL 439 Dijital marka Yönetimi ve Sosyal Medya
+Course:                                             İŞL 441 Üretim Planlaması ve Denetimi
+Course:                                             İŞL 441 Üretim Planlaması ve Denetimi
+Course:                                             İŞL 452 Dış Denetim
+Course:                                             İŞL 452 Dış Denetim
+Course:                                             İŞL 461 Risk Yönetimi
+Course:                                             İŞL 461 Risk Yönetimi
+Course:                                             İŞL 464 Kurumsal Yönetim
+Course:                                             İŞL 464 Kurumsal Yönetim
+Course:                                             İŞL 513 Girişimcilik
+Course:                                             İŞL 513 Girişimcilik
+Course:                                             İŞL 537 Uluslararası Pazarlama Stratejileri
+Course:                                             İŞL 537 Uluslararası Pazarlama Stratejileri
+Course:                                             İŞL 543 Kobi ve İnovasyon
+Course:                                             İŞL 543 Kobi ve İnovasyon
+Course:                                             İŞL 564 Yatırım ve Menkul Kıymetler Analizi
+Course:                                             İŞL 564 Yatırım ve Menkul Kıymetler Analizi
+Course:                                             İŞL 566 Portföy Analizi ve Yönetimi
+Course:                                             İŞL 566 Portföy Analizi ve Yönetimi
+Course:                                             İŞL 590 İşletme Alanında Seçilmiş Konular
+Course:                                             İŞL 590 İşletme Alanında Seçilmiş Konular
+Course:                                             İŞL 591 Dönem Projesi
+Course:                                             İŞL 591 Dönem Projesi
+Course:                                             İŞL 592 Seminer
+Course:                                             İŞL 592 Seminer
+Course:                                             İŞL 593 Yüksek Lisans Tezi
+Course:                                             İŞL 593 Yüksek Lisans Tezi
+Course:                                             JAP 002 Japonca II
+Course:                                             JAP 002 Japonca II
+Course:                                             JAP 003 Japonca III
+Course:                                             JAP 003 Japonca III
+Course:                                             KİM 101 Genel Kimya
+Course:                                             KİM 101 Genel Kimya
+Course:                                             KLT 003R Rusça Kültür Dersleri I
+Course:                                             KLT 003R Rusça Kültür Dersleri I
+Course:                                             MAK 101 Bilgisayar Destekli Teknik Resim I
+Course:                                             MAK 101 Bilgisayar Destekli Teknik Resim I
+Course:                                             MAK 104 Statik
+Course:                                             MAK 104 Statik
+Course:                                             MAK 112 Bilgisayar Destekli Teknik Resim
+Course:                                             MAK 112 Bilgisayar Destekli Teknik Resim
+Course:                                             MAK 203 Dinamik
+Course:                                             MAK 203 Dinamik
+Course:                                             MAK 217 Malzeme Bilimi
+Course:                                             MAK 217 Malzeme Bilimi
+Course:                                             MAK 217L Malzeme Bilimi Laboratuvarı
+Course:                                             MAK 217L Malzeme Bilimi Laboratuvarı
+Course:                                             MAK 302 Isı Transferi
+Course:                                             MAK 302 Isı Transferi
+Course:                                             MAK 302L Isı Transferi Laboratuvarı
+Course:                                             MAK 302L Isı Transferi Laboratuvarı
+Course:                                             MAK 310 Sayısal Yöntemler
+Course:                                             MAK 310 Sayısal Yöntemler
+Course:                                             MAK 312 Makina Elemanları
+Course:                                             MAK 312 Makina Elemanları
+Course:                                             MAK 410 Makine Mühendisleri için Sonlu Elemanlar Yöntemi
+Course:                                             MAK 410 Makine Mühendisleri için Sonlu Elemanlar Yöntemi
+Course:                                             MAK 441 Mekanik Titreşimler
+Course:                                             MAK 441 Mekanik Titreşimler
+Course:                                             MAK 451 Mekatronik Enstrümantasyon
+Course:                                             MAK 451 Mekatronik Enstrümantasyon
+Course:                                             MAK 480 Isıl Tasarım
+Course:                                             MAK 480 Isıl Tasarım
+Course:                                             MAK 490 Gaz Türbinleri
+Course:                                             MAK 490 Gaz Türbinleri
+Course:                                             MAK 499 Serbest Araştırma Dersi
+                                        :  63%|██████▎   | 260/413 [17:57<10:32,  4.13s/it]                                            MAK 499 Serbest Araştırma Dersi
+Course:                                             MAK 499 Serbest Araştırma Dersi
+                                         could not be crawled!
+Course:                                             MAK 530 Alışılmamış İmalat Yöntemleri
+Course:                                             MAK 530 Alışılmamış İmalat Yöntemleri
+Course:                                             MAK 541 İleri Makina Titreşimleri
+Course:                                             MAK 541 İleri Makina Titreşimleri
+Course:                                             MAK 566 Işınımla Isı Geçişi
+Course:                                             MAK 566 Işınımla Isı Geçişi
+Course:                                             MAK 597 Seminer
+Course:                                             MAK 597 Seminer
+Course:                                             MAK 599 Yüksek Lisans Tezi
+Course:                                             MAK 599 Yüksek Lisans Tezi
+                                            MAK 599 Yüksek Lisans Tezi
+                                         could not be crawled!
+Course:                                             MAK 697 Doktora Semineri
+Course:                                             MAK 697 Doktora Semineri
+Course:                                             MAK 698 İleri Araştırma Konuları
+                                        :  65%|██████▍   | 267/413 [18:24<09:07,  3.75s/it]                                            MAK 698 İleri Araştırma Konuları
+Course:                                             MAK 698 İleri Araştırma Konuları
+                                         could not be crawled!
+Course:                                             MAK 699 Doktora Tezi
+Course:                                             MAK 699 Doktora Tezi
+Course:                                             MAT 102 Matematik II
+                                        :  65%|██████▌   | 269/413 [18:30<08:23,  3.50s/it]                                            MAT 102 Matematik II
+Course:                                             MAT 102 Matematik II
+                                         could not be crawled!
+Course:                                             MAT 104 Genel Matematik II
+                                        :  65%|██████▌   | 270/413 [18:32<07:18,  3.06s/it]                                            MAT 104 Genel Matematik II
+Course:                                             MAT 104 Genel Matematik II
+                                         could not be crawled!
+Course:                                             MAT 201 Doğrusal Cebir
+                                        :  66%|██████▌   | 271/413 [18:34<06:31,  2.76s/it]                                                MAT 201 Doğrusal Cebir
+Course:                                             MAT 201 Doğrusal Cebir
+                                         could not be crawled!
+Course:                                             MAT 203 Lineer Cebir ve Diferansiyel Denklemlere Giriş
+                                        :  66%|██████▌   | 272/413 [18:36<05:59,  2.55s/it]                                            MAT 203 Lineer Cebir ve Diferansiyel Denklemlere Giriş
+Course:                                             MAT 203 Lineer Cebir ve Diferansiyel Denklemlere Giriş
+                                         could not be crawled!
+Course:                                             MAT 209 İleri Analiz I
+Course:                                             MAT 209 İleri Analiz I
+Course:                                             MAT 495 Proje Dersi I
+Course:                                             MAT 495 Proje Dersi I
+Course:                                             MAT 496 Proje Dersi II
+Course:                                             MAT 496 Proje Dersi II
+Course:                                             MAT 555 Diferansiyel Denklemlerde Seçme Konular
+Course:                                             MAT 555 Diferansiyel Denklemlerde Seçme Konular
+Course:                                             MAT 597 Seminer
+Course:                                             MAT 597 Seminer
+                                            MAT 597 Seminer
+                                         could not be crawled!
+Course:                                             MAT 599 Yüksek Lisans Tezi
+Course:                                             MAT 599 Yüksek Lisans Tezi
+                                            MAT 599 Yüksek Lisans Tezi
+Course:                                             MAT 699 Doktora Tez Çalışması
+                                         could not be crawled!
+                                        :  68%|██████▊   | 279/413 [19:01<07:21,  3.30s/it]                                            MAT 699 Doktora Tez Çalışması
+Course:                                             MAT 699 Doktora Tez Çalışması
+                                         could not be crawled!
+Course:                                             MBN 201 Malzeme Bilimi I
+Course:                                             MBN 201 Malzeme Bilimi I
+Course:                                             MBN 201L Malzeme Bilimi Laboratuarı 1
+Course:                                             MBN 201L Malzeme Bilimi Laboratuarı 1
+Course:                                             MBN 203 Termodinamik
+Course:                                             MBN 203 Termodinamik
+Course:                                             MBN 208 Nano Bilim ve Mühendislikte Kimyasal Kuramlar
+Course:                                             MBN 208 Nano Bilim ve Mühendislikte Kimyasal Kuramlar
+Course:                                             MBN 403 Nano Ölçekte Karakterizasyon Yöntemleri
+Course:                                             MBN 403 Nano Ölçekte Karakterizasyon Yöntemleri
+Course:                                             MBN 403L Nano Ölçekte Üretim ve Karakterizasyon Laboratuarı
+Course:                                             MBN 403L Nano Ölçekte Üretim ve Karakterizasyon Laboratuarı
+Course:                                             MBN 450 Metalik Malzemeler
+Course:                                             MBN 450 Metalik Malzemeler
+Course:                                             MBN 464 Polimer Proses Teknolojileri
+Course:                                             MBN 464 Polimer Proses Teknolojileri
+Course:                                             MİM 201 Mimari Tasarım Stüdyosu III
+                                        :  70%|██████▉   | 288/413 [19:36<08:26,  4.05s/it]                                             MİM 201 Mimari Tasarım Stüdyosu III
+Course:                                             MİM 201 Mimari Tasarım Stüdyosu III
+                                         could not be crawled!
+Course:                                             MİM 202 Mimari Tasarım Stüdyosu IV
+Course:                                             MİM 202 Mimari Tasarım Stüdyosu IV
+Course:                                             MİM 205 Mimari Tasarım, Sunum ve Araştırma Yöntem ve Teknikleri III
+Course:                                             MİM 205 Mimari Tasarım, Sunum ve Araştırma Yöntem ve Teknikleri III
+Course:                                             MİM 207 Yapı Teknolojileri III
+                                        :  70%|███████   | 291/413 [19:46<07:44,  3.81s/it]                                                                                 MİM 207 Yapı Teknolojileri III
+Course:                                             MİM 207 Yapı Teknolojileri III
+                                         could not be crawled!
+Course:                                             MİM 213 Mimarlık Kültürü, Tarih ve Kuramları III
+Course:                                             MİM 213 Mimarlık Kültürü, Tarih ve Kuramları III
+                                            MİM 213 Mimarlık Kültürü, Tarih ve Kuramları III
+Course:                                             MİM 226 Kent Yürüyüşleri
+                                         could not be crawled!
+Course:                                             MİM 226 Kent Yürüyüşleri
+Course:                                             MİM 301 Mimari Tasarım Stüdyosu V
+Course:                                             MİM 301 Mimari Tasarım Stüdyosu V
+Course:                                             MİM 302 Mimari Tasarım Stüdyosu VI
+                                        :  71%|███████▏  | 295/413 [19:59<06:56,  3.53s/it]                                            MİM 302 Mimari Tasarım Stüdyosu VI
+Course:                                             MİM 302 Mimari Tasarım Stüdyosu VI
+                                         could not be crawled!
+Course:                                             MİM 318 Kent ve Mimarlık - Seçmeli
+Course:                                             MİM 318 Kent ve Mimarlık - Seçmeli
+Course:                                             MİM 321 Uluslararası Mimari Tasarım Yoğun Stüdyosu - Seçmeli
+Course:                                             MİM 321 Uluslararası Mimari Tasarım Yoğun Stüdyosu - Seçmeli
+Course:                                             MİM 401 Mimari Tasarım Stüdyosu VII
+                                        :  72%|███████▏  | 298/413 [20:11<07:32,  3.93s/it]                                                                     MİM 401 Mimari Tasarım Stüdyosu VII
+Course:                                             MİM 401 Mimari Tasarım Stüdyosu VII
+                                         could not be crawled!
+Course:                                             MİM 402 Mimari Tasarım Stüdyosu VIII
+Course:                                             MİM 402 Mimari Tasarım Stüdyosu VIII
+Course:                                             MİM 403 Mimarlık Kültürü, Tarih ve Kuramları VII
+Course:                                             MİM 403 Mimarlık Kültürü, Tarih ve Kuramları VII
+Course:                                             MİM 404 Mimarlık Kültürü, Tarih ve Kuramları VIII
+Course:                                             MİM 404 Mimarlık Kültürü, Tarih ve Kuramları VIII
+Course:                                             MİM 405 Mimari Tasarım, Sunum ve Araştırma Yöntem ve Teknikleri VII
+Course:                                             MİM 405 Mimari Tasarım, Sunum ve Araştırma Yöntem ve Teknikleri VII
+Course:                                             MİM 406 Mimari Tasarım, Sunum ve Araştırma Yöntem ve Teknikleri VIII
+                                        :  73%|███████▎  | 303/413 [20:30<07:14,  3.95s/it]                                            MİM 406 Mimari Tasarım, Sunum ve Araştırma Yöntem ve Teknikleri VIII
+Course:                                             MİM 406 Mimari Tasarım, Sunum ve Araştırma Yöntem ve Teknikleri VIII
+                                         could not be crawled!
+Course:                                             MİM 407 Yapı Teknolojileri VII
+Course:                                             MİM 407 Yapı Teknolojileri VII
+Course:                                             MİM 408 Yapı Teknolojileri VIII
+Course:                                             MİM 408 Yapı Teknolojileri VIII
+Course:                                             MİM 421 Mimari Tasarımda Peyzaj Temaları - Seçmeli
+Course:                                             MİM 421 Mimari Tasarımda Peyzaj Temaları - Seçmeli
+Course:                                             MİM 422 Bina Kabuğunun Performans Değerlendirmesi
+Course:                                             MİM 422 Bina Kabuğunun Performans Değerlendirmesi
+Course:                                             MİM 502 Architectural Theory
+Course:                                             MİM 502 Architectural Theory
+Course:                                             MİM 503 Mimari Tasarım Stüdyosu I
+                                            MİM 502 Architectural Theory
+                                         could not be crawled!
+Course:                                             MİM 503 Mimari Tasarım Stüdyosu I
+Course:                                             MİM 505 Mimari Peyzaj
+                                        :  75%|███████▌  | 310/413 [20:54<06:10,  3.60s/it]                                                        MİM 505 Mimari Peyzaj
+Course:                                             MİM 505 Mimari Peyzaj
+                                         could not be crawled!
+Course:                                             MİM 521 Sürdürülebilirlik: Çevre, Politika ve İnsan Davranışları
+Course:                                             MİM 521 Sürdürülebilirlik: Çevre, Politika ve İnsan Davranışları
+                                            MİM 521 Sürdürülebilirlik: Çevre, Politika ve İnsan Davranışları
+Course:                                             MİM 525 Mimarlıkta Görsellik Çalışmaları
+                                         could not be crawled!
+Course:                                             MİM 525 Mimarlıkta Görsellik Çalışmaları
+Course:                                             MİM 597 Seminer
+                                        :  76%|███████▌  | 313/413 [21:07<06:34,  3.94s/it]                                                                     MİM 597 Seminer
+Course:                                             MİM 597 Seminer
+                                         could not be crawled!
+Course:                                             MİM 599 Yüksek Lisans Tezi
+Course:                                             MİM 599 Yüksek Lisans Tezi
+Course:                                             MMİ 101 Mühendislik Fakültesi için ÖZel Amaçlı Mesleki İngilizce Dersi
+                                        :  76%|███████▋  | 315/413 [21:11<04:51,  2.98s/it]                                            MİM 599 Yüksek Lisans Tezi
+                                         could not be crawled!
+                                            MMİ 101 Mühendislik Fakültesi için ÖZel Amaçlı Mesleki İngilizce Dersi
+Course:                                             MMİ 101 Mühendislik Fakültesi için ÖZel Amaçlı Mesleki İngilizce Dersi
+                                         could not be crawled!
+Course:                                             MNT 597 Seminer
+Course:                                             MNT 597 Seminer
+Course:                                             MNT 598 Yüksek Lisans Projesi
+Course:                                             MNT 598 Yüksek Lisans Projesi
+Course:                                             MNT 599 Yüksek Lisans Tezi
+Course:                                             MNT 599 Yüksek Lisans Tezi
+                                            MNT 599 Yüksek Lisans Tezi
+Course:                                             MNT 697 Doktora Semineri
+                                         could not be crawled!
+Course:                                             MNT 697 Doktora Semineri
+Course:                                             MNT 699 Doktora Tezi
+Course:                                             MNT 699 Doktora Tezi
+Course:                                             OEG 101 Ortak Eğitime Giriş
+                                        :  78%|███████▊  | 321/413 [21:33<05:38,  3.68s/it]                                            OEG 101 Ortak Eğitime Giriş
+Course:                                             OEG 101 Ortak Eğitime Giriş
+                                         could not be crawled!
+Course:                                             OEG 200 Ortak Eğitim I
+                                        :  78%|███████▊  | 322/413 [21:35<04:50,  3.19s/it]                                                 OEG 200 Ortak Eğitim I
+Course:                                             OEG 200 Ortak Eğitim I
+                                         could not be crawled!
+Course:                                             OEG 300 Ortak Eğitim II
+Course:                                             OEG 300 Ortak Eğitim II
+                                            OEG 300 Ortak Eğitim II
+Course:                                             OEG 400 Ortak Eğitim III
+                                         could not be crawled!
+Course:                                             OEG 400 Ortak Eğitim III
+                                            OEG 400 Ortak Eğitim III
+                                         could not be crawled!
+Course:                                             PSİ 200 Psikolojide Eleştirel Düşünme ve Akademik Yazı
+                                        :  79%|███████▊  | 325/413 [21:42<03:34,  2.44s/it]                                            PSİ 200 Psikolojide Eleştirel Düşünme ve Akademik Yazı
+Course:                                             PSİ 200 Psikolojide Eleştirel Düşünme ve Akademik Yazı
+                                         could not be crawled!
+Course:                                             PSİ 201 Psikolojide Araştırma Yöntemleri ve İstatistik I
+Course:                                             PSİ 201 Psikolojide Araştırma Yöntemleri ve İstatistik I
+Course:                                             PSİ 260 Psikoloji için Araştırma ve Uygulama Etiği
+Course:                                             PSİ 260 Psikoloji için Araştırma ve Uygulama Etiği
+                                            PSİ 260 Psikoloji için Araştırma ve Uygulama Etiği
+Course:                                             PSİ 313 Örgütsel Davranış
+                                         could not be crawled!
+Course:                                             PSİ 313 Örgütsel Davranış
+Course:                                             PSİ 339 Film ile Zihin, Bilinç ve Duygular
+Course:                                             PSİ 339 Film ile Zihin, Bilinç ve Duygular
+                                            PSİ 339 Film ile Zihin, Bilinç ve Duygular
+                                         could not be crawled!
+Course:                                             PSİ 428 Dikkat Süreçleri
+Course:                                             PSİ 428 Dikkat Süreçleri
+Course:                                             PSİ 430 Klinik Psikoloji I
+                                        :  80%|████████  | 331/413 [22:03<04:32,  3.32s/it]                                            PSİ 430 Klinik Psikoloji I
+Course:                                             PSİ 430 Klinik Psikoloji I
+                                         could not be crawled!
+Course:                                             PSİ 447 Bilişsel- Davranışçı Terapiye Giriş
+Course:                                             PSİ 447 Bilişsel- Davranışçı Terapiye Giriş
+Course:                                             PSİ 461 Bitirme Projesi I
+Course:                                             PSİ 461 Bitirme Projesi I
+Course:                                             PSİ 462 Bitirme Projesi II
+Course:                                             PSİ 462 Bitirme Projesi II
+Course:                                             PSİ 463 Psikolojide Güncel Konular
+Course:                                             PSİ 463 Psikolojide Güncel Konular
+Course:                                             RUS 002 Rusça II
+Course:                                             RUS 002 Rusça II
+                                            RUS 002 Rusça II
+                                         could not be crawled!
+Course:                                             RUS 003 Rusça III
+Course:                                             RUS 003 Rusça III
+Course:                                             SAT 108 Sanat Tarihi II - Seçmeli
+Course:                                             SAT 108 Sanat Tarihi II - Seçmeli
+Course:                                             SAT 205 Fotoğraf I 
+Course:                                             SAT 205 Fotoğraf I 
+Course:                                             SAT 206 Fotoğraf II 
+Course:                                             SAT 206 Fotoğraf II 
+Course:                                             SB 401 Seminer:Siyasette Güncel Konular
+Course:                                             SB 401 Seminer:Siyasette Güncel Konular
+Course:                                             STY 301 Görsel Sanatlarda Çağdaş Uygulamalar
+Course:                                             STY 301 Görsel Sanatlarda Çağdaş Uygulamalar
+Course:                                             STY 303 Müze ve Kültürel Miras
+Course:                                             STY 303 Müze ve Kültürel Miras
+Course:                                             SUİ 205 Karşılaştırılmalı Siyasi Sistemlere Giriş
+Course:                                             SUİ 205 Karşılaştırılmalı Siyasi Sistemlere Giriş
+                                            SUİ 205 Karşılaştırılmalı Siyasi Sistemlere Giriş
+Course:                                             SUİ 207 Siyaset Teorisi
+                                         could not be crawled!
+                                        :  84%|████████▎ | 345/413 [22:59<03:58,  3.51s/it]                                                                      SUİ 207 Siyaset Teorisi
+Course:                                             SUİ 207 Siyaset Teorisi
+                                         could not be crawled!
+Course:                                             SUİ 235 Türkiyenin Siyasi ve Toplumsal Yapısı
+Course:                                             SUİ 235 Türkiyenin Siyasi ve Toplumsal Yapısı
+                                            SUİ 235 Türkiyenin Siyasi ve Toplumsal Yapısı
+Course:                                             SUİ 251 Araştırma Yöntemleri
+                                         could not be crawled!
+                                        :  84%|████████▍ | 347/413 [23:03<03:02,  2.76s/it]                                                             SUİ 251 Araştırma Yöntemleri
+Course:                                             SUİ 251 Araştırma Yöntemleri
+                                         could not be crawled!
+Course:                                             SUİ 321 Siyaset Sosyolojisi
+Course:                                             SUİ 321 Siyaset Sosyolojisi
+Course:                                             SUİ 336 Milliyetçilik ve Azınlıklar
+Course:                                             SUİ 336 Milliyetçilik ve Azınlıklar
+Course:                                             SUİ 355 Avrupa Bütünleşmesi: Kuram ve Tarihsel Gelişim
+Course:                                             SUİ 355 Avrupa Bütünleşmesi: Kuram ve Tarihsel Gelişim
+Course:                                             SUİ 401 Bitirme Projesi
+Course:                                             SUİ 401 Bitirme Projesi
+Course:                                             SUİ 413 Göç Siyaseti 
+Course:                                             SUİ 413 Göç Siyaseti 
+Course:                                             SUİ 434 Uluslararası İlişkilerde Toplumsal Cinsiyet
+Course:                                             SUİ 434 Uluslararası İlişkilerde Toplumsal Cinsiyet
+Course:                                             SUİ 443 Modern Ortadoğudaki Çatışmaları Filmler Üzerinden Okumak
+Course:                                             SUİ 443 Modern Ortadoğudaki Çatışmaları Filmler Üzerinden Okumak
+Course:                                             SUİ 499 Serbest Araştırmalar
+Course:                                             SUİ 499 Serbest Araştırmalar
+Course:                                             TAR 223B İslam Tarihi ve Medeniyeti I
+                                        :  86%|████████▌ | 356/413 [23:38<03:50,  4.05s/it]                                            TAR 223B İslam Tarihi ve Medeniyeti I
+                                         could not be crawled!
+Course:                                             TAR 223B İslam Tarihi ve Medeniyeti I
+Course:                                             TAR 233E Ottoman History I 
+Course:                                             TAR 233E Ottoman History I 
+Course:                                             TAR 245B Osmanlı Paleografyası I
+Course:                                             TAR 245B Osmanlı Paleografyası I
+Course:                                             TAR 393 Bizans Tarihi
+Course:                                             TAR 393 Bizans Tarihi
+                                            TAR 393 Bizans Tarihi
+Course:                                             TAR 413 Çağdaş Türkiye Tarihi I
+                                         could not be crawled!
+Course:                                             TAR 413 Çağdaş Türkiye Tarihi I
+Course:                                             TAR 421 Çağdaş Dünya Tarihi
+                                        :  87%|████████▋ | 361/413 [23:59<03:33,  4.11s/it]                                                TAR 421 Çağdaş Dünya Tarihi
+Course:                                             TAR 421 Çağdaş Dünya Tarihi
+                                         could not be crawled!
+Course:                                             TAR 441 Arşiv ve Tarih
+Course:                                             TAR 441 Arşiv ve Tarih
+Course:                                             TAR 515 Orta Doğu’da Toplum, Kültür ve Siyaset
+Course:                                             TAR 515 Orta Doğu’da Toplum, Kültür ve Siyaset
+Course:                                             TAR 580 Yüksek Lisans Tezi
+Course:                                             TAR 580 Yüksek Lisans Tezi
+Course:                                             TDE 211 Osmanlı Türkçesi III
+Course:                                             TDE 211 Osmanlı Türkçesi III
+Course:                                             TDE 221 Tarihi Türk Lehçeleri-I (Orhun-Uygur)
+Course:                                             TDE 221 Tarihi Türk Lehçeleri-I (Orhun-Uygur)
+Course:                                             TDE 223 Cumhuriyet Dönemi Türk Edebiyatı 1 (Şiir)
+Course:                                             TDE 223 Cumhuriyet Dönemi Türk Edebiyatı 1 (Şiir)
+Course:                                             TDE 243 Klasik Türk Edebiyatına Giriş
+Course:                                             TDE 243 Klasik Türk Edebiyatına Giriş
+Course:                                             TDE 376 Türk Dilinin Bugünkü Problemleri
+Course:                                             TDE 376 Türk Dilinin Bugünkü Problemleri
+Course:                                             TDE 413 XIX. Yüzyıl Türk Edebiyatı 1 (Şiir)
+Course:                                             TDE 413 XIX. Yüzyıl Türk Edebiyatı 1 (Şiir)
+Course:                                             TDE 415 Türk Tasavvuf Edebiyatı
+Course:                                             TDE 415 Türk Tasavvuf Edebiyatı
+Course:                                             TDE 423 Klasik Edebiyat İncelemeleri III (XVII.YY)
+Course:                                             TDE 423 Klasik Edebiyat İncelemeleri III (XVII.YY)
+Course:                                             TDE 511 Türk Edebiyatında Araştırma ve Yöntemler
+Course:                                             TDE 511 Türk Edebiyatında Araştırma ve Yöntemler
+Course:                                             TDE 541 Türk Dili ve Edebiyatı Yüksek Lisans Tezi
+Course:                                             TDE 541 Türk Dili ve Edebiyatı Yüksek Lisans Tezi
+Course:                                             TIP 104 Hücre Bilimleri IV: Dokudan Sisteme
+                                        :  91%|█████████ | 375/413 [24:56<02:37,  4.13s/it]                                                  TIP 104 Hücre Bilimleri IV: Dokudan Sisteme
+Course:                                             TIP 104 Hücre Bilimleri IV: Dokudan Sisteme
+                                         could not be crawled!
+Course:                                             TIP 206 Hastalıkların Biyolojik Temelleri
+Course:                                             TIP 206 Hastalıkların Biyolojik Temelleri
+                                            TIP 206 Hastalıkların Biyolojik Temelleri
+Course:                                             TIP 306 Sinir-duyu ve Kas-iskelet Hastalıklarının Patolojik Temelleri
+                                         could not be crawled!
+Course:                                             TIP 306 Sinir-duyu ve Kas-iskelet Hastalıklarının Patolojik Temelleri
+Course:                                             TIP 402 Genel Cerrahi
+Course:                                             TIP 402 Genel Cerrahi
+Course:                                             TIP 404 İçHastalıkları ve Kardiyoloji
+Course:                                             TIP 404 İçHastalıkları ve Kardiyoloji
+Course:                                             TIP 405 Kadın Hastalıkları ve Doğum
+Course:                                             TIP 405 Kadın Hastalıkları ve Doğum
+Course:                                             TIP 406 Adli Tıp
+                                        :  92%|█████████▏| 381/413 [25:20<02:14,  4.19s/it]                                                               TIP 406 Adli Tıp
+Course:                                             TIP 406 Adli Tıp
+                                         could not be crawled!
+Course:                                             TIP 502 Nöroloji
+Course:                                             TIP 502 Nöroloji
+Course:                                             TIP 504 Ruh Sağlığı ve Hastalıkları
+Course:                                             TIP 504 Ruh Sağlığı ve Hastalıkları
+Course:                                             TIP 505 Çocuk Ruh Sağlığı ve Hastalıkları
+Course:                                             TIP 505 Çocuk Ruh Sağlığı ve Hastalıkları
+Course:                                             TIP 507 Kulak Burun Boğaz Hastalıkları
+Course:                                             TIP 507 Kulak Burun Boğaz Hastalıkları
+Course:                                             TIP 508 Deri ve Zührevi Hastalıklar
+Course:                                             TIP 508 Deri ve Zührevi Hastalıklar
+Course:                                             TIP 509 Radyoloji
+                                            TIP 508 Deri ve Zührevi Hastalıklar
+                                        :  94%|█████████▎| 387/413 [25:45<01:47,  4.12s/it]                                                           could not be crawled!
+Course:                                             TIP 509 Radyoloji
+Course:                                             TIP 510 Çocuk Cerrahisi
+Course:                                             TIP 510 Çocuk Cerrahisi
+Course:                                             TIP 511 Ortopedi
+Course:                                             TIP 511 Ortopedi
+                                            TIP 511 Ortopedi
+                                         could not be crawled!
+Course:                                             TIP 512 Fiziksel Tıp ve Rehabilitasyon
+                                        :  94%|█████████▍| 390/413 [25:55<01:20,  3.49s/it]                                            TIP 512 Fiziksel Tıp ve Rehabilitasyon
+Course:                                             TIP 512 Fiziksel Tıp ve Rehabilitasyon
+                                         could not be crawled!
+Course:                                             TIP 516 Anesteziyoloji ve Reanimasyon Stajı
+                                        :  95%|█████████▍| 391/413 [25:57<01:07,  3.06s/it]                                            TIP 516 Anesteziyoloji ve Reanimasyon Stajı
+Course:                                             TIP 516 Anesteziyoloji ve Reanimasyon Stajı
+                                         could not be crawled!
+Course:                                             TIP 603 İç Hastalıları Stajı (İntörnlük)
+Course:                                             TIP 603 İç Hastalıları Stajı (İntörnlük)
+                                            TIP 603 İç Hastalıları Stajı (İntörnlük)
+                                         could not be crawled!
+Course:                                             TIP 604 Çocuk Sağlığı ve Hastalıkları Stajı (İntörnlük)
+Course:                                             TIP 604 Çocuk Sağlığı ve Hastalıkları Stajı (İntörnlük)
+Course:                                             TIP 606 Acil Tıp Stajı (İntörnlük)
+                                        :  95%|█████████▌| 394/413 [26:05<00:57,  3.01s/it]                                                                 TIP 606 Acil Tıp Stajı (İntörnlük)
+Course:                                             TIP 606 Acil Tıp Stajı (İntörnlük)
+                                         could not be crawled!
+Course:                                             TIP 607 Seçmeli Stajı (İntörnlük)
+Course:                                             TIP 607 Seçmeli Stajı (İntörnlük)
+Course:                                             TIP 608 Seçmeli Stajı (İntörnlük)
+Course:                                             TIP 608 Seçmeli Stajı (İntörnlük)
+Course:                                             TIP 609 Ruh Sağlığı ve Hastalıkları Stajı (İntörnlük)
+Course:                                             TIP 609 Ruh Sağlığı ve Hastalıkları Stajı (İntörnlük)
+Course:                                             TIP 610 Aile Hekimliği Stajı (İntörnlük)
+Course:                                             TIP 610 Aile Hekimliği Stajı (İntörnlük)
+Course:                                             TIP 611 Klinik Farmakoloji Stajı (İntörnlük)
+Course:                                             TIP 611 Klinik Farmakoloji Stajı (İntörnlük)
+Course:                                             TSR 519 Deneyim Tasarımında Güncel Yaklaşımlar
+Course:                                             TSR 519 Deneyim Tasarımında Güncel Yaklaşımlar
+                                            TSR 519 Deneyim Tasarımında Güncel Yaklaşımlar
+                                         could not be crawled!
+Course:                                             TSR 592 Seminer
+Course:                                             TSR 592 Seminer
+Course:                                             TSR 598 Yüksek Lisans Tezi
+                                        :  97%|█████████▋| 402/413 [26:36<00:39,  3.62s/it]                                            TSR 598 Yüksek Lisans Tezi
+Course:                                             TSR 598 Yüksek Lisans Tezi
+                                         could not be crawled!
+Course:                                             UGİ 221 Uluslararası Hukuka Giriş
+Course:                                             UGİ 221 Uluslararası Hukuka Giriş
+Course:                                             UGİ 236 Kültürlerarası İşletmecilik
+Course:                                             UGİ 236 Kültürlerarası İşletmecilik
+Course:                                             UGİ 292A Arapçaya Giriş
+Course:                                             UGİ 292A Arapçaya Giriş
+Course:                                             UGİ 292R Rusçaya Giriş
+Course:                                             UGİ 292R Rusçaya Giriş
+Course:                                             UGİ 315 Girişimcilik ve Liderlik
+Course:                                             UGİ 315 Girişimcilik ve Liderlik
+                                            UGİ 315 Girişimcilik ve Liderlik
+Course:                                             ULU 515 Uluslararası İlişkilerde Enerji Politikaları
+                                         could not be crawled!
+Course:                                             ULU 515 Uluslararası İlişkilerde Enerji Politikaları
+Course:                                             ULU 527 Dünya Politikalarında Güncel Konular Semineri
+Course:                                             ULU 527 Dünya Politikalarında Güncel Konular Semineri
+Course:                                             ULU 540 Ortadoğunun Uluslararası İlişkileri
+Course:                                             ULU 540 Ortadoğunun Uluslararası İlişkileri
+Course:                                             ULU 598 Dönem Projesi
+Course:                                             ULU 598 Dönem Projesi
+Course:                                             ULU 599 Yüksek Lisans Tezi
+Course:                                             ULU 599 Yüksek Lisans Tezi
+                                        : 100%|██████████| 413/413 [27:18<00:00,  4.00s/it]
+
+Process finished with exit code 0
