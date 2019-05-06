@@ -1,7 +1,7 @@
 ,Öğrenci No,Ad Soyad,Bölüm,Sınıf,Devam Drm
 0,171201058,ÇAĞAN DURGUN,Elektrik ve Elektronik Mühendisliği,1,Devamsız
 1,151201048,ENES AÇIKEL,Elektrik ve Elektronik Mühendisliği,4,Devamsız
-2,081501046,GÖKÇE MARAL KARAHAN,Makine Mühendisliği Lisans Programı,1,Devamsız
+2,081501046,GÖKÇE MARAL KARAHAN,Makine Mühendisliği Lisans Programı,3,Devamsız
 3,151301080,BURAK BOSTANCIOĞLU,Endüstri Mühendisliği Lisans Programı,1,Devamsız
 4,151301044,OĞUZHAN EVİN,Endüstri Mühendisliği Lisans Programı,1,Devamsız
 5,171201079,ÖZKAN MUTLU DAŞCAL,Elektrik ve Elektronik Mühendisliği,1,Devamlı
@@ -75,3 +75,7 @@
 73,151201029,SELİN ONAY,Elektrik ve Elektronik Mühendisliği,4,Devamsız
 74,141101041,ALİ BERK SIĞIN,Bilgisayar Mühendisliği Lisans Programı,3,Devamsız
 75,171201035,HAYRİYE KARAKULLUKCU,Elektrik ve Elektronik Mühendisliği,1,Devamlı
+76,101101025,ORKUN ŞİMŞEK,Bilgisayar Mühendisliği Lisans Programı,2,Devamlı
+77,141801040,ALİ BORAN NOĞAY,Malzeme Bilimi ve Nanoteknoloji Mühendisliği Lisans,1,Devamsız
+78,141101079,UTKU ÇUHADAROĞLU,Bilgisayar Mühendisliği Lisans Programı,2,Devamlı
+79,141701029,EZGİ KOYUNCU,Biyomedikal Mühendisliği Lisans Programı,1,Devamsız

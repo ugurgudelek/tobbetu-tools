@@ -16,13 +16,7 @@ import configparser
 import argparse
 import re
 
-SESSION_NO = 'EBEC2AB4-0EF5-477C-B47B-F83B127394FD'
-BASE_URL = f'https://program.etu.edu.tr/DersProgrami/?oturumNo={SESSION_NO}#/'
 
-chrome_options = Options()
-# chrome_options.add_argument("--headless")
-driver = webdriver.Chrome('../driver/chromedriver.exe', options=chrome_options)
-driver.get(BASE_URL)
 
 def force_find_element_by_xpath(xpath):
     while True:
@@ -32,17 +26,8 @@ def force_find_element_by_xpath(xpath):
         except:
             time.sleep(1)
 
-courses_form_control = force_find_element_by_xpath('//*[@id="panelLatestMovies"]/div[2]/form/div[1]/div/div[2]/select')
-options = courses_form_control.find_elements_by_tag_name('option')
 
-courses = dict()  # 1234:'bil133'
-for i, option in enumerate(options):
-    if i == 0: continue # drop first undefined course
-    course_name = option.text
-    code = option.get_attribute('value')
-    courses[code] = course_name
 
-# courses = {21252: 'BİL 133 Kombinatorik ve Çizge Kuramı'}
 
 def course_schedule_to_csv(course_schedule_link):
     driver.get(course_schedule_link)
@@ -99,9 +84,10 @@ def extract_section_info(section_info):
         section_capacity = int(section_info.split('-')[-1].split(':')[-1].strip())  # Toplam:45 -> 45
     return section_num, section_lecturer, section_capacity
 
-def student_lists_to_csv(student_list_link):
+def student_lists_to_csv(student_list_link, to_csv=True):
+    r = []
     driver.get(student_list_link)
-    time.sleep(2)
+    time.sleep(3)
 
     student_list_dataframes = pd.read_html(driver.page_source)
 
@@ -112,34 +98,63 @@ def student_lists_to_csv(student_list_link):
         df = pd.DataFrame(student_list_dataframe.iloc[2:, 1:].values,
                           columns=student_list_dataframe.iloc[1, 1:])
 
-        section_dir = os.path.join(course_dir, str(section_num))
-        os.makedirs(section_dir, exist_ok=True)
+        if to_csv:
+            section_dir = os.path.join(course_dir, str(section_num))
+            os.makedirs(section_dir, exist_ok=True)
 
-        with open(os.path.join(section_dir, 'info.txt'), 'w', encoding='utf-8') as f:
-            f.write(section_info)
-        df.to_csv(os.path.join(section_dir, f"{section_num}.csv"))
+            with open(os.path.join(section_dir, 'info.txt'), 'w', encoding='utf-8') as f:
+                f.write(section_info)
+            df.to_csv(os.path.join(section_dir, f"{section_num}.csv"), encoding='utf-8')
+
+        r.append(df)
+    return r
+
+def driver_init():
+    driver.get(BASE_URL)
 
 
-with tqdm(total=len(courses)) as pbar:
-    for code, course_name in courses.items():
-        pbar.set_description(f"Course: {course_name}")
+SESSION_NO = '5D6204E6-7BF8-4D5F-BFD8-A59A4BAD3F52'
+BASE_URL = f'https://program.etu.edu.tr/DersProgrami/?oturumNo={SESSION_NO}#/'
+chrome_options = Options()
+chrome_options.add_argument("--headless")
+driver = webdriver.Chrome('../driver/chromedriver.exe', options=chrome_options)
 
-        course_dir = os.path.join('..', 'course_student_list', f"{code}")
-        os.makedirs(course_dir, exist_ok=True)
 
-        with open(os.path.join(course_dir, 'info.txt'), 'w', encoding='utf-8') as f:
-            f.write(course_name.strip())
+if __name__ == "__main__":
 
-        course_schedule_link = BASE_URL + f"ders/dersprogram/{code}/0"
-        student_list_link = BASE_URL+f"sube/ogrencilist/{code}/0"
+    driver_init()
+    courses_form_control = force_find_element_by_xpath('//*[@id="panelLatestMovies"]/div[2]/form/div[1]/div/div[2]/select')
+    options = courses_form_control.find_elements_by_tag_name('option')
 
-        try:
-            student_lists_to_csv(student_list_link)
-            course_schedule_to_csv(course_schedule_link)
-        except:
-            print(f"{courses[code]} could not be crawled!")
+    courses = dict()  # 1234:'bil133'
+    for i, option in enumerate(options):
+        if i == 0: continue # drop first undefined course
+        course_name = option.text
+        code = option.get_attribute('value')
+        courses[code] = course_name
 
-        pbar.update(1)
+    # courses = {21252: 'BİL 133 Kombinatorik ve Çizge Kuramı'}
+
+    with tqdm(total=len(courses)) as pbar:
+        for code, course_name in courses.items():
+            pbar.set_description(f"Course: {course_name}")
+
+            course_dir = os.path.join('..', 'course_student_list', f"{code}")
+            os.makedirs(course_dir, exist_ok=True)
+
+            with open(os.path.join(course_dir, 'info.txt'), 'w', encoding='utf-8') as f:
+                f.write(course_name.strip())
+
+            course_schedule_link = BASE_URL + f"ders/dersprogram/{code}/0"
+            student_list_link = BASE_URL+f"sube/ogrencilist/{code}/0"
+
+            try:
+                student_lists_to_csv(student_list_link)
+                course_schedule_to_csv(course_schedule_link)
+            except:
+                print(f"{courses[code]} could not be crawled!")
+
+            pbar.update(1)
 
 
 

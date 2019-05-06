@@ -21,12 +21,8 @@ Course:                                             ALM 002Y Almanca II( Yoğunl
 Course:                                             ALM 002Y Almanca II( Yoğunlaştırılmış İkinci Yabancı Dil Programı)
 Course:                                             ALM 003 Almanca III
 Course:                                             ALM 003 Almanca III
-Course:                                             ALM 003Y Almanca III( Yoğunlaştırılmış İkinci Yabancı Dil Programı)
-Course:                                             ALM 003Y Almanca III( Yoğunlaştırılmış İkinci Yabancı Dil Programı)
 Course:                                             ALM 004 Almanca IV
 Course:                                             ALM 004 Almanca IV
-Course:                                             ALM 004Y Almanca IV( Yoğunlaştırılmış İkinci Yabancı Dil Programı)
-Course:                                             ALM 004Y Almanca IV( Yoğunlaştırılmış İkinci Yabancı Dil Programı)
 Course:                                             ARP 002 Arapça II
 Course:                                             ARP 002 Arapça II
 Course:                                             ARP 003 Arapça III
@@ -90,18 +86,14 @@ Course:                                             BİL 576 Bilgi Erişim Siste
 Course:                                             BİL 597 Seminer
 Course:                                             BİL 597 Seminer
 Course:                                             BİL 598 Dönem Projesi
-                                        :  11%|█         | 45/413 [03:04<24:59,  4.08s/it]                                            BİL 598 Dönem Projesi
-                                         could not be crawled!
 Course:                                             BİL 598 Dönem Projesi
 Course:                                             BİL 599 Tez Çalışması
+                                        :  11%|█         | 44/411 [03:44<31:34,  5.16s/it]                                            BİL 599 Tez Çalışması
+                                         could not be crawled!
 Course:                                             BİL 599 Tez Çalışması
 Course:                                             BİL 697 Doktora Semineri
-                                        :  11%|█▏        | 47/413 [03:08<18:29,  3.03s/it]                                            BİL 599 Tez Çalışması
-                                         could not be crawled!
 Course:                                             BİL 697 Doktora Semineri
 Course:                                             BİL 699 Doktora Tez Çalışması
-                                        :  12%|█▏        | 48/413 [03:12<20:19,  3.34s/it]                                            BİL 699 Doktora Tez Çalışması
-                                         could not be crawled!
 Course:                                             BİL 699 Doktora Tez Çalışması
 Course:                                             BMM 203 Tıbbi Biyoloji
 Course:                                             BMM 203 Tıbbi Biyoloji
@@ -195,7 +187,7 @@ Course:                                             ELE 699 Doktora Tezi
 Course:                                             ELE 699 Doktora Tezi
 Course:                                             END 009 Üretim Bilişim Sistemleri
 Course:                                             END 009 Üretim Bilişim Sistemleri
-                                            END 009 Üretim Bilişim Sistemleri
+                                        :  23%|██▎       | 93/411 [07:52<26:52,  5.07s/it]                                            END 009 Üretim Bilişim Sistemleri
                                          could not be crawled!
 Course:                                             END 014 Olasılık ve İstatistik
 Course:                                             END 014 Olasılık ve İstatistik
@@ -210,8 +202,8 @@ Course:                                             END 214 Olasılık ve İstat
 Course:                                             END 320 Mühendislik Ekonomisi
 Course:                                             END 320 Mühendislik Ekonomisi
 Course:                                             END 409 Üretim Bilişim Sistemleri
-                                        :  24%|██▍       | 101/413 [06:47<21:19,  4.10s/it]                                            END 409 Üretim Bilişim Sistemleri
 Course:                                             END 409 Üretim Bilişim Sistemleri
+                                            END 409 Üretim Bilişim Sistemleri
                                          could not be crawled!
 Course:                                             END 411 Tedarik Zinciri Yönetimi
 Course:                                             END 411 Tedarik Zinciri Yönetimi
@@ -224,16 +216,16 @@ Course:                                             END 498 Serbest Araştırma 
 Course:                                             END 524 Sıralama ve Çizelgeleme
 Course:                                             END 524 Sıralama ve Çizelgeleme
 Course:                                             END 597 Seminer
+                                        :  26%|██▌       | 105/411 [08:53<25:56,  5.09s/it]                                                            END 597 Seminer
 Course:                                             END 597 Seminer
-                                            END 597 Seminer
                                          could not be crawled!
 Course:                                             END 598 Dönem Projesi
-                                        :  26%|██▌       | 108/413 [07:16<20:58,  4.13s/it]                                            END 598 Dönem Projesi
+                                        :  26%|██▌       | 106/411 [08:58<26:02,  5.12s/it]                                            END 598 Dönem Projesi
 Course:                                             END 598 Dönem Projesi
                                          could not be crawled!
 Course:                                             END 599 Yüksek Lisans Tezi
-                                        :  26%|██▋       | 109/413 [07:20<21:03,  4.16s/it]                                            END 599 Yüksek Lisans Tezi
 Course:                                             END 599 Yüksek Lisans Tezi
+                                            END 599 Yüksek Lisans Tezi
                                          could not be crawled!
 Course:                                             END 697 Doktora Semineri
 Course:                                             END 697 Doktora Semineri
@@ -821,8 +813,6 @@ Course:                                             TSR 592 Seminer
 Course:                                             TSR 592 Seminer
 Course:                                             TSR 598 Yüksek Lisans Tezi
 Course:                                             TSR 598 Yüksek Lisans Tezi
-                                            TSR 598 Yüksek Lisans Tezi
-                                         could not be crawled!
 Course:                                             UGİ 221 Uluslararası Hukuka Giriş
 Course:                                             UGİ 221 Uluslararası Hukuka Giriş
 Course:                                             UGİ 236 Kültürlerarası İşletmecilik
@@ -843,6 +833,6 @@ Course:                                             ULU 598 Dönem Projesi
 Course:                                             ULU 598 Dönem Projesi
 Course:                                             ULU 599 Yüksek Lisans Tezi
 Course:                                             ULU 599 Yüksek Lisans Tezi
-                                        : 100%|██████████| 413/413 [28:04<00:00,  4.06s/it]
+                                        : 100%|██████████| 411/411 [34:53<00:00,  5.08s/it]
 
 Process finished with exit code 0

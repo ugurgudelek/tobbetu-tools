@@ -44,100 +44,104 @@
 42,175101061,EZGİ HİLAL ESİN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
 43,145101078,ÖZGE ÇELEBİ,Hukuk Lisans Programı,4,Devamsız
 44,175101035,BORA TAYYAR,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-45,173101044,MUHAMMED ALİ EKER,İşletme Lisans Programı,1,Devamlı
-46,175101037,OKTAY ALTUNTAŞ,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
-47,175101008,AYBİKE ŞAHİN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-48,175101036,FİLİZ GÖKÇE BİLGİN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-49,175101039,FATMA BAŞARAN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-50,155101018,YİĞİT MERT CAN ÖZŞENSOY,Hukuk Lisans Programı,4,Devamsız
-51,175101098,MERVE NİSA KOÇ,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-52,155101062,İLKER ŞAHİN,Hukuk Lisans Programı (%30 İngilizce),3,Devamsız
-53,175101026,SELİN BIKMAZ,Hukuk Lisans Programı (%30 İngilizce),2,Devamsız
-54,145101042,ŞEBNEM ERGÜN,Hukuk Lisans Programı,2,Devamsız
-55,135101064,EKREM ABDULLAH POLAT,Hukuk Lisans Programı,2,Devamsız
-56,165101024,TUĞÇE MERVE ÖZYÜREK,Hukuk Lisans Programı (%30 İngilizce),3,Devamsız
-57,175101092,İSMAİL HAKKI AKÇA,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-58,175101083,SELİN SU SEVEN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-59,165101062,MEHMET HALİT AVŞAR,Hukuk Lisans Programı (%30 İngilizce),1,Devamsız
-60,185101032,EMİRHAN AKDAĞ,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
-61,175101044,IŞILAY BAĞDATOĞLU,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
-62,165101026,ECE ZAVAROĞLU,Hukuk Lisans Programı (%30 İngilizce),1,Devamsız
-63,185101033,ALEYNA NUR ACIR,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-64,165101095,ZEHRA KULU,Hukuk Lisans Programı (%30 İngilizce),1,Devamsız
-65,175101074,İREM SU DİKENLİ,Hukuk Lisans Programı (%30 İngilizce),1,Devamsız
-66,165101075,BERKAY BOLAT,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-67,175101020,MEHMET KAĞAN ACAR,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-68,145101041,SENANUR BEYCAN,Hukuk Lisans Programı,3,Devamsız
-69,155101014,ABDULKERİM KARAGÖZ,Hukuk Lisans Programı,4,Devamsız
-70,183101039,ÇAĞRI ÇERİBAŞ,İşletme Lisans Programı,1,Devamlı
-71,175101054,EMİN EREN SARI,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
-72,155101050,BEYZA DUYAR,Hukuk Lisans Programı,3,Devamsız
-73,185104003,MELİKE ALTAN,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
-74,185101027,SILA ESEN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-75,165101084,EBRU ELİF OKTAY,Hukuk Lisans Programı (%30 İngilizce),1,Devamsız
-76,175101058,YAVUZ BATURHAN YILDIRIM,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-77,165101038,AYDA BİLGE ÇINAR,Hukuk Lisans Programı (%30 İngilizce),2,Devamsız
-78,175101068,MÜLKİYE HANDE ALTINSOY,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-79,175101018,MERT ARİF SÖNMEZ,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-80,165101078,ÖMER FARUK ARAS,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
-81,175101012,EZGİ İNCE,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
-82,145101053,İPEK MUTAFOĞLU,Hukuk Lisans Programı,4,Devamsız
-83,175101081,BAŞAK YILDIZ,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
-84,185101092,EZGİ ÇİFTÇİ,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-85,175101064,KADİR CEM BİLGİÇ,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-86,175101030,SİMGE SERDAROĞLU,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-87,165104007,BEYZA NUR CANIPEK,Hukuk Lisans Programı,2,Devamsız
-88,165101040,ENES SALTUK ORHAN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-89,175101067,BANU AKPINAR,Hukuk Lisans Programı (%30 İngilizce),1,Devamsız
-90,175101097,ÖZGE NUR ÇALIK,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-91,165101088,ECEM NARLI,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
-92,175101089,MERT DİKENOĞLU,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
-93,175101084,DENİZ ALP TEKİN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-94,165101047,YİĞİT ARSLAN KARAYILMAZ,Hukuk Lisans Programı (%30 İngilizce),1,Devamsız
-95,175101088,ALEYNA ARSLAN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-96,165101066,CANSU KABADAŞ,Hukuk Lisans Programı (%30 İngilizce),1,Devamsız
-97,175101073,İLKE KOCAMAN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-98,175101087,SAİD SERDAR DEMİRCİ,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
-99,185101064,ORKUN KAYRA KORKMAZ,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
-100,175101062,ZEYNEP SELCEN GÖZLÜGÖL,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-101,175101057,TAHSİN AYDIN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-102,165101020,ARİF EREN SÜTSEVER,Hukuk Lisans Programı (%30 İngilizce),3,Devamsız
-103,145101066,MEHMET ALPEREN GÜNGÖR,Hukuk Lisans Programı,1,Devamsız
-104,165101079,CAHİT ARDA TOROS,Hukuk Lisans Programı (%30 İngilizce),3,Devamsız
-105,175101093,SERTAÇ ÇELİKBİLEK,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-106,165101055,FURKAN YEŞİL,Hukuk Lisans Programı (%30 İngilizce),2,Devamsız
-107,175101006,KEZBAN AYLİN ELVAN,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
-108,155101049,MAHMUT ALPGİRAY SEVİM,Hukuk Lisans Programı,1,Devamsız
-109,165101048,EMRE ÇİÇEK,Hukuk Lisans Programı (%30 İngilizce),1,Devamsız
-110,185101020,BETÜL BAYRAK,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
-111,155101078,MUTLU ALANER,Hukuk Lisans Programı,3,Devamsız
-112,175101072,AHMET HAKAN DOĞAN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-113,165120016,ELİF ŞAHİN,Hukuk Lisans Programı,4,Devamsız
-114,145104001,MUHAMMET CAFER BALO,Hukuk Lisans Programı,3,Devamsız
-115,175101025,ALİHAN KARAKOÇ,Hukuk Lisans Programı (%30 İngilizce),1,Devamsız
-116,165101071,MEHMET KAAN DUMAN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-117,165101059,EYLÜL ÖZDEMİR,Hukuk Lisans Programı (%30 İngilizce),1,Devamsız
-118,175101009,EZGİ NUR KARAGÖZLÜ,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-119,175101090,BERİTAN OLCAY,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
-120,175101049,EZGİ SİPAHİ,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-121,175101080,YAĞMUR DEMİRCAN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-122,175101034,HANDAN TUTAR,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-123,185104002,SİMGE PARILTI,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-124,175101070,HELİN MERCAN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-125,155101059,ASLINUR AYBİKE TEKER,Hukuk Lisans Programı,4,Devamsız
-126,175101053,YUSUF SOĞANDA,Hukuk Lisans Programı (%30 İngilizce),1,Devamsız
-127,165120003,MUHAMMED FURKAN YÜCE,Hukuk Lisans Programı,3,Devamsız
-128,175101066,MUSTAFA NECATİ KARAKÖSE,Hukuk Lisans Programı (%30 İngilizce),1,Devamsız
-129,175101031,SEBAHAT ZEYNEP ZEYDAN,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
-130,145101015,ÖMER AKBACAK,Hukuk Lisans Programı,2,Devamsız
-131,185101041,HÜSEYİN CEBE,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-132,163101003,ASLIHAN AŞİYAN,Hukuk Lisans Programı (%30 İngilizce),3,Devamsız
-133,152501005,TUBA ÇILDIR,Hukuk Lisans Programı,4,Devamlı
-134,152401001,NEFİSE ECE ÖZCAN,Hukuk Lisans Programı (%30 İngilizce),4,Devamlı
-135,153301001,MÜŞERREF GÜLSÜM ÇETİNKAYA,Hukuk Lisans Programı,4,Devamlı
-136,133401007,IŞINSU AKDURUCAK,Hukuk Lisans Programı,4,Devamlı
-137,132401012,İREM AVCI,Hukuk Lisans Programı,4,Devamsız
-138,153201008,YUSUF KILINÇ,Hukuk Lisans Programı (%30 İngilizce),4,Devamlı
-139,172301012,ENGİN BOLAT,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-140,174201035,ELİF BAHAR ALAN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
-141,153101025,BURAK PIRLANTA,Hukuk Lisans Programı,4,Devamsız
+45,155101017,ÖMER FURKAN ÖZDEMİR,Hukuk Lisans Programı (%30 İngilizce),4,Devamsız
+46,173101044,MUHAMMED ALİ EKER,İşletme Lisans Programı,1,Devamlı
+47,175101037,OKTAY ALTUNTAŞ,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
+48,175101008,AYBİKE ŞAHİN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+49,175101036,FİLİZ GÖKÇE BİLGİN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+50,175101039,FATMA BAŞARAN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+51,155101018,YİĞİT MERT CAN ÖZŞENSOY,Hukuk Lisans Programı,4,Devamsız
+52,175101098,MERVE NİSA KOÇ,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+53,155101062,İLKER ŞAHİN,Hukuk Lisans Programı (%30 İngilizce),3,Devamsız
+54,175101026,SELİN BIKMAZ,Hukuk Lisans Programı (%30 İngilizce),2,Devamsız
+55,145101042,ŞEBNEM ERGÜN,Hukuk Lisans Programı,2,Devamsız
+56,135101064,EKREM ABDULLAH POLAT,Hukuk Lisans Programı,2,Devamsız
+57,165101024,TUĞÇE MERVE ÖZYÜREK,Hukuk Lisans Programı (%30 İngilizce),3,Devamsız
+58,175101092,İSMAİL HAKKI AKÇA,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+59,175101083,SELİN SU SEVEN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+60,165101062,MEHMET HALİT AVŞAR,Hukuk Lisans Programı (%30 İngilizce),1,Devamsız
+61,185101032,EMİRHAN AKDAĞ,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
+62,175101044,IŞILAY BAĞDATOĞLU,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
+63,165101026,ECE ZAVAROĞLU,Hukuk Lisans Programı (%30 İngilizce),1,Devamsız
+64,185101033,ALEYNA NUR ACIR,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+65,165101095,ZEHRA KULU,Hukuk Lisans Programı (%30 İngilizce),1,Devamsız
+66,175101074,İREM SU DİKENLİ,Hukuk Lisans Programı (%30 İngilizce),1,Devamsız
+67,165101075,BERKAY BOLAT,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+68,175101020,MEHMET KAĞAN ACAR,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+69,145101041,SENANUR BEYCAN,Hukuk Lisans Programı,3,Devamsız
+70,155101014,ABDULKERİM KARAGÖZ,Hukuk Lisans Programı,4,Devamsız
+71,183101039,ÇAĞRI ÇERİBAŞ,İşletme Lisans Programı,1,Devamlı
+72,175101054,EMİN EREN SARI,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
+73,155101050,BEYZA DUYAR,Hukuk Lisans Programı,3,Devamsız
+74,185104003,MELİKE ALTAN,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
+75,185101027,SILA ESEN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+76,165101084,EBRU ELİF OKTAY,Hukuk Lisans Programı (%30 İngilizce),1,Devamsız
+77,175101058,YAVUZ BATURHAN YILDIRIM,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+78,165101038,AYDA BİLGE ÇINAR,Hukuk Lisans Programı (%30 İngilizce),2,Devamsız
+79,175101068,MÜLKİYE HANDE ALTINSOY,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+80,175101018,MERT ARİF SÖNMEZ,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+81,165101078,ÖMER FARUK ARAS,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
+82,175101012,EZGİ İNCE,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
+83,145101053,İPEK MUTAFOĞLU,Hukuk Lisans Programı,4,Devamsız
+84,175101081,BAŞAK YILDIZ,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
+85,185101092,EZGİ ÇİFTÇİ,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+86,175101064,KADİR CEM BİLGİÇ,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+87,175101030,SİMGE SERDAROĞLU,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+88,165104007,BEYZA NUR CANIPEK,Hukuk Lisans Programı,2,Devamsız
+89,165101040,ENES SALTUK ORHAN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+90,175101067,BANU AKPINAR,Hukuk Lisans Programı (%30 İngilizce),1,Devamsız
+91,175101097,ÖZGE NUR ÇALIK,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+92,165101088,ECEM NARLI,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
+93,135101043,AYKUTCAN ÖZENCİ,Hukuk Lisans Programı,1,Devamsız
+94,175101089,MERT DİKENOĞLU,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
+95,175101084,DENİZ ALP TEKİN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+96,165101047,YİĞİT ARSLAN KARAYILMAZ,Hukuk Lisans Programı (%30 İngilizce),1,Devamsız
+97,175101088,ALEYNA ARSLAN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+98,165101066,CANSU KABADAŞ,Hukuk Lisans Programı (%30 İngilizce),1,Devamsız
+99,175101073,İLKE KOCAMAN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+100,165101042,TUNAHAN CEYLAN,Hukuk Lisans Programı (%30 İngilizce),2,Devamsız
+101,175101087,SAİD SERDAR DEMİRCİ,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
+102,185101064,ORKUN KAYRA KORKMAZ,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
+103,175101062,ZEYNEP SELCEN GÖZLÜGÖL,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+104,175101057,TAHSİN AYDIN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+105,165101020,ARİF EREN SÜTSEVER,Hukuk Lisans Programı (%30 İngilizce),3,Devamsız
+106,145101066,MEHMET ALPEREN GÜNGÖR,Hukuk Lisans Programı,1,Devamsız
+107,165101079,CAHİT ARDA TOROS,Hukuk Lisans Programı (%30 İngilizce),3,Devamsız
+108,175101093,SERTAÇ ÇELİKBİLEK,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+109,165101055,FURKAN YEŞİL,Hukuk Lisans Programı (%30 İngilizce),2,Devamsız
+110,175101006,KEZBAN AYLİN ELVAN,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
+111,155101049,MAHMUT ALPGİRAY SEVİM,Hukuk Lisans Programı,1,Devamsız
+112,165101048,EMRE ÇİÇEK,Hukuk Lisans Programı (%30 İngilizce),1,Devamsız
+113,185101020,BETÜL BAYRAK,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
+114,155101078,MUTLU ALANER,Hukuk Lisans Programı,3,Devamsız
+115,175101072,AHMET HAKAN DOĞAN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+116,165120016,ELİF ŞAHİN,Hukuk Lisans Programı,4,Devamsız
+117,145104001,MUHAMMET CAFER BALO,Hukuk Lisans Programı,3,Devamsız
+118,175101025,ALİHAN KARAKOÇ,Hukuk Lisans Programı (%30 İngilizce),1,Devamsız
+119,165101071,MEHMET KAAN DUMAN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+120,165101059,EYLÜL ÖZDEMİR,Hukuk Lisans Programı (%30 İngilizce),1,Devamsız
+121,175101009,EZGİ NUR KARAGÖZLÜ,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+122,175101090,BERİTAN OLCAY,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
+123,175101049,EZGİ SİPAHİ,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+124,175101080,YAĞMUR DEMİRCAN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+125,175101034,HANDAN TUTAR,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+126,185104002,SİMGE PARILTI,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+127,175101070,HELİN MERCAN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+128,155101059,ASLINUR AYBİKE TEKER,Hukuk Lisans Programı,4,Devamsız
+129,175101053,YUSUF SOĞANDA,Hukuk Lisans Programı (%30 İngilizce),1,Devamsız
+130,165120003,MUHAMMED FURKAN YÜCE,Hukuk Lisans Programı,3,Devamsız
+131,175101066,MUSTAFA NECATİ KARAKÖSE,Hukuk Lisans Programı (%30 İngilizce),1,Devamsız
+132,175101031,SEBAHAT ZEYNEP ZEYDAN,Hukuk Lisans Programı (%30 İngilizce),1,Devamlı
+133,145101015,ÖMER AKBACAK,Hukuk Lisans Programı,2,Devamsız
+134,185101041,HÜSEYİN CEBE,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+135,163101003,ASLIHAN AŞİYAN,Hukuk Lisans Programı (%30 İngilizce),3,Devamsız
+136,152501005,TUBA ÇILDIR,Hukuk Lisans Programı,4,Devamlı
+137,152401001,NEFİSE ECE ÖZCAN,Hukuk Lisans Programı (%30 İngilizce),4,Devamlı
+138,153301001,MÜŞERREF GÜLSÜM ÇETİNKAYA,Hukuk Lisans Programı,4,Devamlı
+139,133401007,IŞINSU AKDURUCAK,Hukuk Lisans Programı,4,Devamlı
+140,132401012,İREM AVCI,Hukuk Lisans Programı,4,Devamsız
+141,153201008,YUSUF KILINÇ,Hukuk Lisans Programı (%30 İngilizce),4,Devamlı
+142,172301012,ENGİN BOLAT,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+143,174201035,ELİF BAHAR ALAN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
+144,153101025,BURAK PIRLANTA,Hukuk Lisans Programı,4,Devamsız
+145,186504041,YASEM ORÇAN,Hukuk Lisans Programı (%30 İngilizce),2,Devamlı
