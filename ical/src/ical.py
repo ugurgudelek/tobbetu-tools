@@ -5,11 +5,11 @@ import pytz
 
 
 # URL = 'http://kayit.etu.edu.tr/butunleme_gozetmenlikleri.php'
-# URL = 'http://kayit.etu.edu.tr/ara_sinav_programi.php'
-URL = 'http://kayit.etu.edu.tr/rapor/final_sinav_programi.php'
-# gozetmen_name = 'MEHMET UĞUR GÜDELEK'
+URL = 'http://kayit.etu.edu.tr/ara_sinav_programi.php'
+# URL = 'http://kayit.etu.edu.tr/rapor/final_sinav_programi.php'
+gozetmen_name = 'MEHMET UĞUR GÜDELEK'
 # gozetmen_name = 'MUHAMMED YILMAZ'
-gozetmen_name = 'ZEYNEP TÜFEKCİ'
+# gozetmen_name = 'ZEYNEP TÜFEKCİ'
 # gozetmen_name = 'CANSIN BAYRAK'
 # gozetmen_name = 'IŞIKSU EKŞİOĞLU'
 # gozetmen_name = 'UĞUR ŞAHİN'
