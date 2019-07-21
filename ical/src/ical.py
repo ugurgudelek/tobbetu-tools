@@ -5,7 +5,8 @@ import pytz
 
 
 # URL = 'http://kayit.etu.edu.tr/butunleme_gozetmenlikleri.php'
-URL = 'http://kayit.etu.edu.tr/ara_sinav_programi.php'
+# URL = 'http://kayit.etu.edu.tr/ara_sinav_programi.php'
+URL = 'http://kayit.etu.edu.tr/rapor/final_sinav_programi.php'
 # URL = 'http://kayit.etu.edu.tr/rapor/final_sinav_programi.php'
 gozetmen_name = 'MEHMET UĞUR GÜDELEK'
 # gozetmen_name = 'MUHAMMED YILMAZ'
